@@ -2,14 +2,6 @@
 [SERVER v1.0.20] Running as service
 [SERVER v1.0.20] Got Message: Ready
 [SERVER v1.0.20] Got Message: Compile
-[SERVER v1.0.20] Console: PermissionsManager.cs(180,17): warning CS0219: The variable `pageNo' is assigned but its value is never used
-PermissionsManager.cs(269,18): warning CS0219: The variable `present' is assigned but its value is never used
-PermissionsManager.cs(318,12): warning CS0219: The variable `RightAMin1' is assigned but its value is never used
-PermissionsManager.cs(319,12): warning CS0219: The variable `RightAMax1' is assigned but its value is never used
-PermissionsManager.cs(320,12): warning CS0219: The variable `RightBMin1' is assigned but its value is never used
-PermissionsManager.cs(321,12): warning CS0219: The variable `RightBMax1' is assigned but its value is never used
-PermissionsManager.cs(593,28): warning CS0219: The variable `PermInHand' is assigned but its value is never used
-PermissionsManager.cs(27,24): warning CS0649: Field `Oxide.Plugins.PermissionsManager.info.plugNumber' is never assigned to, and will always have its default value `0'
-
+[SERVER v1.0.20] Console: 
 [SERVER v1.0.20] Connection closed.
 [SERVER v1.0.20] Shutdown

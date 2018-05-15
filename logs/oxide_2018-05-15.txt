@@ -1168,3 +1168,9 @@
 15:50 [Info] [FancyDrop] Next timed Airdrop in 45 minutes
 15:54 [Info] [Better Chat] Spermwhale: Developpeur informatique
 15:57 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took 274ms [GARBAGE COLLECT]
+16:34 [Info] [Death Notes] Spermwhale was shot to pieces by a Patrol Helicopter.
+16:35 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+16:35 [Info] [FancyDrop] Next timed Airdrop in 49 minutes
+16:37 [Info] ServerInfo was compiled successfully in 3062ms
+16:37 [Info] [Magic Description] Server description updated!
+16:37 [Info] Loaded plugin ServerInfo v0.5.3 by Fujikura/baton
