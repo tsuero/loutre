@@ -1,0 +1,265 @@
+07:33 [Error] Could not load plugin 'ZLevelRemastered' (no plugin found with that file name)
+07:33 [Info] ZLevelsRemastered was compiled successfully in 2008ms
+07:33 [Info] [Magic Description] Server description updated!
+07:33 [Info] Unloaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+07:33 [Info] [Magic Description] Server description updated!
+07:33 [Info] Loaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+07:46 [Error] Could not load plugin 'ZlevelsRemastered' (no plugin found with that file name)
+07:56 [Info] [Magic Description] Server description updated!
+07:56 [Info] Unloaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+07:56 [Info] [Magic Description] Server description updated!
+07:56 [Info] Loaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+08:04 [Info] Added '// Reference: System.Drawing' in plugin 'CopyPaste'
+08:04 [Info] CopyPaste was compiled successfully in 2027ms
+08:04 [Info] [Magic Description] Server description updated!
+08:04 [Info] Loaded plugin Copy Paste v3.6.4 by Reneb
+08:06 [Info] Permission 'copypaste' doesn't exist
+08:29 [Info] LoadingMessages was compiled successfully in 2352ms
+08:29 [Info] [Magic Description] Server description updated!
+08:29 [Info] Loaded plugin Loading Messages v1.0.4 by VVoid
+08:47 [Info] [Magic Description] Server description updated!
+08:47 [Info] Unloaded plugin Loading Messages v1.0.4 by VVoid
+08:47 [Info] [Magic Description] Server description updated!
+08:47 [Info] Loaded plugin Loading Messages v1.0.4 by VVoid
+08:47 [Info] [Magic Description] Server description updated!
+08:47 [Info] Unloaded plugin Loading Messages v1.0.4 by VVoid
+08:47 [Info] [Magic Description] Server description updated!
+08:47 [Info] Loaded plugin Loading Messages v1.0.4 by VVoid
+08:47 [Info] [Magic Description] Server description updated!
+08:47 [Info] Unloaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+08:47 [Info] [Magic Description] Server description updated!
+08:47 [Info] Loaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+08:53 [Info] [Magic Description] Server description updated!
+08:53 [Info] Unloaded plugin Loading Messages v1.0.4 by VVoid
+08:53 [Info] [Magic Description] Server description updated!
+08:53 [Info] Loaded plugin Loading Messages v1.0.4 by VVoid
+09:05 [Info] [Magic Description] Server description updated!
+09:05 [Info] Unloaded plugin Loading Messages v1.0.4 by VVoid
+09:05 [Info] [Magic Description] Server description updated!
+09:05 [Info] Loaded plugin Loading Messages v1.0.4 by VVoid
+09:05 [Info] BuildingGrades was compiled successfully in 1953ms
+09:05 [Info] [Magic Description] Server description updated!
+09:05 [Info] Loaded plugin Building Grades v0.3.12 by bawNg / Nogrod
+09:06 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'buildinggrades.cangrade'
+09:06 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'buildinggrades.nocost'
+09:06 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'buildinggrades.owner'
+09:09 [Info] BGrade was compiled successfully in 2562ms
+09:09 [Warning] [BGrade] Generating default configuration file...
+09:09 [Warning] [BGrade] Updated configuration file with new/changed values.
+09:09 [Info] [Magic Description] Server description updated!
+09:09 [Info] Loaded plugin BGrade v1.0.48 by Ryan
+09:10 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'bgrade.all'
+09:10 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'bgrade.nores'
+09:10 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'bgrade.1'
+09:10 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'bgrade.2'
+09:10 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'bgrade.3'
+09:11 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'bgrade.4'
+09:11 [Info] Permission 'bgrade.5' doesn't exist
+09:11 [Info] Build was compiled successfully in 1965ms
+09:11 [Warning] Calling 'OnServerInitialized' on 'Build v1.2.8' took 894ms
+09:11 [Info] [Magic Description] Server description updated!
+09:11 [Info] Loaded plugin Build v1.2.8 by Reneb & NoGrod
+09:12 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'build.builder'
+09:12 [Info] ItemSkinRandomizer was compiled successfully in 203ms
+09:12 [Info] [Magic Description] Server description updated!
+09:12 [Info] Loaded plugin Item Skin Randomizer v1.3.3 by Mughisi
+09:12 [Info] [Item Skin Randomizer] Loaded 1260 approved workshop skins.
+09:14 [Info] Permission 'itemskinrandomizer.use' doesn't exist
+09:14 [Info] Permission 'itemskinrandomizer.use' doesn't exist
+09:14 [Info] Permission 'itemskinrandomizer.use' doesn't exist
+09:15 [Info] [Magic Description] Server description updated!
+09:15 [Info] Unloaded plugin Item Skin Randomizer v1.3.3 by Mughisi
+09:15 [Info] [Magic Description] Server description updated!
+09:15 [Info] Loaded plugin Item Skin Randomizer v1.3.3 by Mughisi
+09:15 [Info] [Item Skin Randomizer] Loaded 1260 approved workshop skins.
+09:16 [Info] Permission 'itemskinrandomizer.use' doesn't exist
+09:16 [Info] Permission 'itemskinrandomizer.use' doesn't exist
+09:21 [Info] SaveMyMap was compiled successfully in 1926ms
+09:21 [Info] [SaveMyMap] Saveinverval set to: 1200 sec. | Custom save after every '1' saves
+09:21 [Info] [Magic Description] Server description updated!
+09:21 [Info] Loaded plugin SaveMyMap v1.3.3 by Fujikura
+09:22 [Warning] Calling 'cMapSave' on 'SaveMyMap v1.3.3' took 466ms
+09:23 [Warning] Calling 'cLoadFile' on 'SaveMyMap v1.3.3' took 9500ms
+09:23 [Warning] Calling 'cLoadFile' on 'SaveMyMap v1.3.3' took average 5ms
+09:38 [Info] HandyMan was compiled successfully in 1973ms
+09:38 [Warning] [Handy Man] Creating a new configuration file
+09:38 [Info] [Magic Description] Server description updated!
+09:38 [Info] Loaded plugin Handy Man v1.3.1 by nivex
+09:39 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'handyman.use'
+09:43 [Info] [Better Chat] LouFi_99: il y a du monde
+09:43 [Info] [Better Chat] LouFi_99: ?
+09:43 [Info] ExplosionTracker was compiled successfully in 1891ms
+09:43 [Warning] [Explosion Tracker] Generating default configuration file...
+09:43 [Info] [Magic Description] Server description updated!
+09:43 [Info] Loaded plugin Explosion Tracker v1.0.2 by Ryan
+09:43 [Info] [Magic Description] Server description updated!
+09:43 [Info] Unloaded plugin Explosion Tracker v1.0.2 by Ryan
+09:43 [Info] [Magic Description] Server description updated!
+09:43 [Info] Loaded plugin Explosion Tracker v1.0.2 by Ryan
+09:44 [Info] [Better Chat] LouFi_99: personne ?
+09:45 [Info] [Explosion Tracker] Tsuero-Sama (76561198022298131) launched a rocket at (X: -1210.17, Y: 0.78, Z: 163.55)
+09:46 [Info] [Better Chat] LouFi_99: admin ?
+09:46 [Info] [Explosion Tracker] Tsuero-Sama (76561198022298131) dropped survey_charge.deployed at (X: -1212.6, Y: 1.16, Z: 168.83)
+09:46 [Info] [Better Chat] [Admin]  Tsuero-Sama: salut
+09:46 [Info] [Better Chat] [Admin]  Tsuero-Sama: desolé j'etais sous windows avec la musique
+09:46 [Info] [Better Chat] LouFi_99: salut j'ai vu dans la description de te parler directement
+09:47 [Info] [Better Chat] [Admin]  Tsuero-Sama: oui c'est exact dit moi tout
+09:47 [Info] [Better Chat] [Admin]  Tsuero-Sama: et j'en profite que tu soit la est-ce que tu vois les notification quand je lance une roquette?
+09:47 [Info] [Better Chat] LouFi_99: pour le serveur la ville est ou ?
+09:47 [Info] [Better Chat] LouFi_99: nn
+09:47 [Info] [Explosion Tracker] Tsuero-Sama (76561198022298131) launched a rocket at (X: -1211.74, Y: 1.05, Z: 167.21)
+09:47 [Info] [Better Chat] LouFi_99: mais j'entend
+09:47 [Info] [Better Chat] [Admin]  Tsuero-Sama: la ville n'existe pas encore
+09:48 [Info] [Better Chat] [Admin]  Tsuero-Sama: le serveur a 2 jours
+09:48 [Info] [Better Chat] [Admin]  Tsuero-Sama: je suis en train de mettre tout mes mod de construction
+09:48 [Info] [Better Chat] LouFi_99: il y a pas un debut
+09:48 [Info] [Better Chat] LouFi_99: a ok
+09:48 [Info] [Better Chat] LouFi_99: jpeux aider ou m'installer ?
+09:48 [Info] [Better Chat] [Admin]  Tsuero-Sama: non vraiment désolé j'essaye de faire au mieux mais ya du boulot
+09:49 [Info] [Better Chat] [Admin]  Tsuero-Sama: et la la prio c'etait les loot et autre addon pour les joueur
+09:49 [Info] [Better Chat] [Admin]  Tsuero-Sama: apres je m'occuperais de la ville
+09:49 [Info] [Better Chat] LouFi_99: ok
+09:49 [Info] [Better Chat] [Admin]  Tsuero-Sama: puis du coté economy
+09:49 [Info] [Better Chat] [Admin]  Tsuero-Sama: ainsi de suite
+09:49 [Info] [Better Chat] [Admin]  Tsuero-Sama: Ben tu peux t'installer ou tu veux
+09:49 [Info] [Better Chat] LouFi_99: ok merci
+09:49 [Info] [Better Chat] [Admin]  Tsuero-Sama: je ne compte pas eteindre le serveur avant un moment
+09:49 [Info] [Better Chat] [Admin]  Tsuero-Sama: enfin reset*
+09:50 [Info] [Better Chat] LouFi_99: ouai j'ai compris
+09:50 [Info] [Better Chat] [Admin]  Tsuero-Sama: puis aider tu l'a dejà fait en me disant que tu ne voyais pas les notif
+09:50 [Info] [Better Chat] [Admin]  Tsuero-Sama: XD
+09:50 [Info] [Better Chat] LouFi_99: mdrr
+09:50 [Info] [Better Chat] [Admin]  Tsuero-Sama: tu as un vocal?
+09:51 [Info] [Better Chat] LouFi_99: ouai discord je suis avec des potes et je parle de ton serveur la
+09:51 [Info] [Better Chat] [Admin]  Tsuero-Sama: ce serait plus simple pour moi ca me permettrait de continuer avec le serv au leiu d'ecrire
+09:51 [Info] [Better Chat] [Admin]  Tsuero-Sama: ah lool
+09:51 [Info] [Better Chat] [Admin]  Tsuero-Sama: ya encore personne sur le mien
+09:51 [Info] [Better Chat] [Admin]  Tsuero-Sama: si tu veux je peux venir faire les présentation :p
+09:51 [Info] [Better Chat] [Admin]  Tsuero-Sama: je m'ennuis oralement :p
+09:51 [Info] [Explosion Tracker] Tsuero-Sama (76561198022298131) launched a rocket at (X: -1216.46, Y: 1.67, Z: 176.04)
+09:52 [Info] [Explosion Tracker] Tsuero-Sama (76561198022298131) dropped explosive.timed.deployed at (X: -1216.37, Y: 1.42, Z: 175.74)
+09:52 [Info] [Better Chat] LouFi_99: nn ils sont en plein fight et tou donc ils veulent pas trop
+09:52 [Info] [Better Chat] [Admin]  Tsuero-Sama: aucun soucis je sais ce que c'est
+09:53 [Info] [Better Chat] [Admin]  Tsuero-Sama: tu peux dejà use la commande /kit si tu veux pour avoire un airdrop et  petit cadeau
+09:53 [Info] [Better Chat] [Admin]  Tsuero-Sama: et si besoin ne m'en veux pas je suis en pleine config là
+09:53 [Info] [Better Chat] LouFi_99: ok je fais dans f1?
+09:53 [Info] [Better Chat] LouFi_99: ok
+09:53 [Info] [Better Chat] [Admin]  Tsuero-Sama: non dans le chat
+09:53 [Info] [Better Chat] LouFi_99: ok
+09:53 [Info] [Better Chat] [Admin]  Tsuero-Sama: tu tape " /kit"
+09:54 [Info] [Better Chat] [Admin]  Tsuero-Sama: et normalement tu as acces a deux kit
+09:54 [Info] [Better Chat] [Admin]  Tsuero-Sama: tu me diras si ca marche au passage :p
+09:54 [Info] [Better Chat] LouFi_99: ouai nickel merci je suis parti de leurs discord la
+09:56 [Info] [Better Chat] [Admin]  Tsuero-Sama: ben rejoint moi si t'as la foi https://discord.gg/abUY2Wy
+09:59 [Info] [Death Notes] A Bear followed LouFi_99 until it finally caught him.
+10:06 [Info] [Explosion Tracker] LouFi_99 (76561198386285012) dropped grenade.smoke.deployed at (X: -445.31, Y: 19.63, Z: 1050.42)
+10:11 [Info] [Death Notes] Tsuero-Sama had enough of life.
+10:13 [Info] [Better Chat] LouFi_99: :KIT
+10:18 [Info] [Death Notes] LouFi_99 killed a Wolf with a Custom SMG (Weapon flashlight) from 0.05m.
+16:25 [Info] FancyDrop was compiled successfully in 2078ms
+16:25 [Info] [FancyDrop] Map Highest Point: (500m) | Plane flying height: (~500m)
+16:25 [Info] [FancyDrop] Timed Airdrop activated with '2' players between '30' and '50' minutes
+16:25 [Info] [FancyDrop] ...killing 2 SupplyDrops
+16:25 [Info] [FancyDrop] Builtin Airdrop removed
+16:25 [Info] [FancyDrop] Next timed Airdrop in 37 minutes
+16:25 [Warning] Calling 'OnServerInitialized' on 'FancyDrop v2.7.8' took 221ms
+16:25 [Info] [Magic Description] Server description updated!
+16:25 [Info] Loaded plugin FancyDrop v2.7.8 by FuJiCuRa
+16:25 [Info] [FancyDrop] '4' custom loot tables loaded with overall '113' items
+17:02 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+17:02 [Info] [FancyDrop] Next timed Airdrop in 47 minutes
+17:07 [Warning] Calling 'Unload' on 'FancyDrop v2.7.8' took 179ms
+17:07 [Info] [Magic Description] Server description updated!
+17:07 [Info] Unloaded plugin FancyDrop v2.7.8 by FuJiCuRa
+17:07 [Error] FancyDrop v2.7.8: Failed to load config file (is the config file corrupt?) (Invalid character after parsing property name. Expected ':' but got: ,. Path 'Timers.RealTime', line 233, position 8.)
+17:07 [Info] [FancyDrop] Map Highest Point: (500m) | Plane flying height: (~500m)
+17:07 [Info] [FancyDrop] Timed Airdrop activated with '2' players between '30' and '50' minutes
+17:07 [Info] [FancyDrop] ...killing 0 SupplyDrops
+17:07 [Info] [FancyDrop] Next timed Airdrop in 33 minutes
+17:07 [Warning] Calling 'OnServerInitialized' on 'FancyDrop v2.7.8' took 119ms
+17:07 [Info] [Magic Description] Server description updated!
+17:07 [Info] Loaded plugin FancyDrop v2.7.8 by FuJiCuRa
+17:07 [Info] [FancyDrop] '4' custom loot tables loaded with overall '113' items
+17:08 [Warning] Calling 'Unload' on 'FancyDrop v2.7.8' took 190ms
+17:08 [Info] [Magic Description] Server description updated!
+17:08 [Info] Unloaded plugin FancyDrop v2.7.8 by FuJiCuRa
+17:08 [Info] [FancyDrop] Map Highest Point: (500m) | Plane flying height: (~500m)
+17:08 [Info] [FancyDrop] Timed Airdrop activated with '2' players between '30' and '50' minutes
+17:08 [Info] [FancyDrop] ...killing 1 SupplyDrops
+17:08 [Info] [FancyDrop] Next timed Airdrop in 43 minutes
+17:08 [Warning] Calling 'OnServerInitialized' on 'FancyDrop v2.7.8' took 125ms
+17:08 [Info] [Magic Description] Server description updated!
+17:08 [Info] Loaded plugin FancyDrop v2.7.8 by FuJiCuRa
+17:08 [Info] [FancyDrop] '4' custom loot tables loaded with overall '113' items
+17:09 [Info] [FancyDrop] Tsuero-Sama (76561198022298131) looted his Drop at: (-729, 0, 745)
+17:10 [Info] [FancyDrop] Tsuero-Sama (76561198022298131) looted his Drop at: (-726, 0, 748)
+17:10 [Warning] Calling 'Unload' on 'FancyDrop v2.7.8' took 190ms
+17:10 [Info] [Magic Description] Server description updated!
+17:10 [Info] Unloaded plugin FancyDrop v2.7.8 by FuJiCuRa
+17:10 [Info] [FancyDrop] Map Highest Point: (500m) | Plane flying height: (~500m)
+17:10 [Info] [FancyDrop] Timed Airdrop activated with '2' players between '30' and '50' minutes
+17:10 [Info] [FancyDrop] ...killing 0 SupplyDrops
+17:10 [Info] [FancyDrop] Next timed Airdrop in 33 minutes
+17:10 [Warning] Calling 'OnServerInitialized' on 'FancyDrop v2.7.8' took 125ms
+17:10 [Info] [Magic Description] Server description updated!
+17:10 [Info] Loaded plugin FancyDrop v2.7.8 by FuJiCuRa
+17:10 [Info] [FancyDrop] '4' custom loot tables loaded with overall '113' items
+17:11 [Info] [FancyDrop] Tsuero-Sama (76561198022298131) looted his Drop at: (-725, 0, 750)
+17:13 [Info] [FancyDrop] Tsuero-Sama (76561198022298131) looted the Drop at: (-725, 0, 750)
+17:15 [Info] [FancyDrop] SupplySignal thrown by 'Elfy' at: (-776.1, 18.1, -1132.2)
+17:18 [Info] [FancyDrop] Elfy (76561198019753583) looted the Drop at: (-780, 19, -1134)
+17:25 [Warning] Calling 'Unload' on 'FancyDrop v2.7.8' took 196ms
+17:25 [Info] [Magic Description] Server description updated!
+17:25 [Info] Unloaded plugin FancyDrop v2.7.8 by FuJiCuRa
+17:25 [Info] [FancyDrop] Map Highest Point: (500m) | Plane flying height: (~500m)
+17:25 [Info] [FancyDrop] Timed Airdrop activated with '2' players between '30' and '50' minutes
+17:25 [Info] [FancyDrop] Next timed Airdrop in 40 minutes
+17:25 [Info] [Magic Description] Server description updated!
+17:25 [Info] Loaded plugin FancyDrop v2.7.8 by FuJiCuRa
+17:25 [Info] [FancyDrop] '4' custom loot tables loaded with overall '113' items
+17:25 [Info] [Explosion Tracker] Tsuero-Sama (76561198022298131) dropped grenade.smoke.deployed at (X: -721.27, Y: 1.5, Z: 752.09)
+17:25 [Info] [FancyDrop] SupplySignal thrown by 'Tsuero-Sama' at: (-721.3, 0.0, 752.1)
+17:25 [Info] [Explosion Tracker] Tsuero-Sama (76561198022298131) dropped grenade.smoke.deployed at (X: -710.44, Y: 1.53, Z: 753.9)
+17:25 [Info] [FancyDrop] SupplySignal thrown by 'Tsuero-Sama' at: (-710.5, 0.0, 753.8)
+17:26 [Info] InventoryCleaner was compiled successfully in 1836ms
+17:26 [Info] [Magic Description] Server description updated!
+17:26 [Info] Loaded plugin Admin / Player Inventory Cleaner v1.5.0 by TheDoc - Uprising Servers
+17:27 [Info] Permission 'inventorycleaner.use' doesn't exist
+17:27 [Info] Permission 'inventorycleaner.use' doesn't exist
+17:29 [Info] Permission 'inventorycleaner.use' doesn't exist
+17:33 [Info] Permission 'inventorycleaner.use' doesn't exist
+17:33 [Info] Permission 'inventorycleaner.invclean' doesn't exist
+17:34 [Info] Permission 'inventorycleaner.use' doesn't exist
+17:38 [Info] [Magic Description] Server description updated!
+17:38 [Info] Unloaded plugin Admin / Player Inventory Cleaner v1.5.0 by TheDoc - Uprising Servers
+17:39 [Info] InventoryCleaner was compiled successfully in 2055ms
+17:39 [Info] [Magic Description] Server description updated!
+17:39 [Info] Loaded plugin Inventory Cleaner v1.1.4 by PaiN
+17:39 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'inventorycleaner.use'
+17:47 [Info] RemoverTool was compiled successfully in 2242ms
+17:47 [Info] [Magic Description] Server description updated!
+17:47 [Info] Loaded plugin RemoverTool v4.2.9 by Reneb/Fuji
+17:53 [Info] [Death Notes] A Scientist got rid of Elfy.
+18:05 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (747, 34, -543)
+18:05 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+18:05 [Info] [FancyDrop] Next timed Airdrop in 39 minutes
+18:11 [Info] BuildingOwners was compiled successfully in 2031ms
+18:11 [Info] [Magic Description] Server description updated!
+18:11 [Info] Loaded plugin Building Owners v3.0.2 by Reneb
+18:44 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+18:44 [Info] [FancyDrop] Next timed Airdrop in 47 minutes
+19:31 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+19:31 [Info] [FancyDrop] Next timed Airdrop in 48 minutes
+20:19 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+20:19 [Info] [FancyDrop] Next timed Airdrop in 43 minutes
+21:02 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+21:02 [Info] [FancyDrop] Next timed Airdrop in 40 minutes
+21:21 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 151ms [GARBAGE COLLECT]
+21:42 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+21:42 [Info] [FancyDrop] Next timed Airdrop in 48 minutes
+22:30 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+22:30 [Info] [FancyDrop] Next timed Airdrop in 33 minutes
+23:03 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+23:03 [Info] [FancyDrop] Next timed Airdrop in 44 minutes
+23:47 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+23:47 [Info] [FancyDrop] Next timed Airdrop in 48 minutes

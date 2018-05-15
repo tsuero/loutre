@@ -1,0 +1,8 @@
+{
+  "You don't have the permissions to use this command.": "You don't have the permissions to use this command.",
+  "You are not allowed to use this command.": "You are not allowed to use this command.",
+  "Syntax: /changeowner PLAYERNAME/STEAMID": "Syntax: /changeowner PLAYERNAME/STEAMID",
+  "Target player not found.": "Target player not found.",
+  "New owner of this house is: {0}": "New owner of this house is: {0}",
+  "An admin gave you the ownership of this house": "An admin gave you the ownership of this house"
+}

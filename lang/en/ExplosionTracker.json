@@ -1,0 +1,5 @@
+{
+  "Dropped Message": "{0} ({1}) dropped {2} at (X: {3}, Y: {4}, Z: {5})",
+  "Launched Message": "{0} ({1}) launched a rocket at (X: {3}, Y: {4}, Z: {5})",
+  "Thrown Message": "{0} ({1}) dropped {2} at (X: {3}, Y: {4}, Z: {5})"
+}

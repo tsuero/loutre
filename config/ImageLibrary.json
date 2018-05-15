@@ -1,0 +1,11 @@
+{
+  "Avatars - Store player avatars": true,
+  "Images - Only download image's when required": true,
+  "Progress - Show download progress in console": true,
+  "Progress - Time between update notifications": 20,
+  "User Images - Manually define images to be loaded": {
+    "worldmap": ""
+  },
+  "Workshop - Download workshop images": true,
+  "Workshop - Pull skin information": true
+}

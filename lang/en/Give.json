@@ -1,0 +1,16 @@
+{
+  "GiveKitFailed": "Could not give kit {0} to '{1}', giving failed",
+  "GiveKitSuccessful": "Giving kit {0} to '{1}' successful",
+  "GiveToFailed": "Could not give item {0} to '{1}', giving failed",
+  "GiveToSuccessful": "Giving item {0} x {1} to '{2}' successful",
+  "InvalidItem": "{0} is not a valid item or is blacklisted",
+  "InvalidKit": "{0} is not a valid kit",
+  "ItemNotFound": "Could not find any item by name or ID '{0}' to give",
+  "ItemReceived": "Vous avez recu {0} x {1}",
+  "NotAllowed": "Heuu.. vous y croyez vraiment, pas de commande '{0}' si vous n'avez pas le droit",
+  "NoPlayersFound": "Aucun joueur avec ce Pseudo/Id '{0}'",
+  "PlayersFound": "Multiple players were found, please specify: {0}",
+  "PlayersOnly": "Command '{0}' can only be used by a player",
+  "UsageGive": "Usage: {0} <item id or item name> [amount] [player name or id]",
+  "UsageGiveKit": "Usage: {0} <kit name> [player name or id]"
+}

@@ -1,0 +1,13 @@
+{
+  "Enable RCON messages": true,
+  "Enable Log messages": true,
+  "Send messages to online admins": true,
+  "Enable Discord messages": false,
+  "Slack Settings": {
+    "Enable Slack messages": false,
+    "Channel name": "mychannelname"
+  },
+  "Enable rocket launch notifications": true,
+  "Enable explosive throw notifications": true,
+  "Enable explosive drop notifications": false
+}

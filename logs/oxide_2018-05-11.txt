@@ -1,0 +1,614 @@
+07:31 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 103ms [GARBAGE COLLECT]
+07:46 [Error] Plugin filename Give (1).cs must match the main class Give (should be Give.cs)
+07:47 [Info] Give was compiled successfully in 2402ms
+07:47 [Warning] [Give] Could not load a valid configuration file, creating a new configuration file at /home/rustserver/serverfiles/oxide/config/Give.json
+07:47 [Info] Loaded plugin Give v3.0.0 by Wulf/lukespragg
+08:00 [Info] Player 'Tsuero-Sama(76561198022298131)' added to group: admin
+08:08 [Info] Unloaded plugin Give v3.0.0 by Wulf/lukespragg
+08:08 [Info] Loaded plugin Give v3.0.0 by Wulf/lukespragg
+08:09 [Info] Unloaded plugin Give v3.0.0 by Wulf/lukespragg
+08:09 [Info] Loaded plugin Give v3.0.0 by Wulf/lukespragg
+08:09 [Info] Unloaded plugin Better Chat v5.0.19 by LaserHydra
+08:09 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+08:09 [Info] Kits and DeathNotes were compiled successfully in 2336ms
+08:09 [Info] Unloaded plugin Kits v3.2.91 by Reneb
+08:09 [Info] Unloaded plugin Death Notes v5.2.20 by LaserHydra
+08:09 [Info] Loaded plugin Kits v3.2.91 by Reneb
+08:09 [Info] Loaded plugin Death Notes v5.2.20 by LaserHydra
+08:09 [Info] ZLevelsRemastered and Clans were compiled successfully in 2617ms
+08:09 [Info] Unloaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+08:09 [Info] Unloaded plugin Rust:IO Clans v1.7.3 by playrust.io / dcode
+08:09 [Info] Loaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+08:09 [Info] Loaded plugin Rust:IO Clans v1.7.3 by playrust.io / dcode
+08:09 [Info] Loading Oxide Core v2.0.3814...
+08:09 [Info] Loading extensions...
+08:10 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+08:10 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+08:10 [Info] Loaded extension CSharp v2.0.3846 by Oxide and Contributors
+08:10 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+08:10 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+08:10 [Info] Loaded extension Rust v2.0.3922 by Oxide and Contributors
+08:10 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+08:10 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+08:10 [Info] Using Covalence provider for game 'Rust'
+08:10 [Info] Loading plugins...
+08:10 [Info] Loaded plugin Rust v2.0.3922 by Oxide and Contributors
+08:10 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+08:10 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+08:10 [Info] BetterChat, Clans, DeathNotes, Give, Kits and ZLevelsRemastered were compiled successfully in 2154ms
+08:10 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+08:10 [Info] Loaded plugin Rust:IO Clans v1.7.3 by playrust.io / dcode
+08:10 [Info] Loaded plugin Death Notes v5.2.20 by LaserHydra
+08:10 [Info] Loaded plugin Give v3.0.0 by Wulf/lukespragg
+08:10 [Info] Loaded plugin Kits v3.2.91 by Reneb
+08:10 [Info] Loaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+08:11 [Info] Updating Rust:IO ...
+08:11 [Info] Rust:IO: Update complete
+08:11 [Info] Installing Rust:IO ...
+08:11 [Info] Rust:IO> Setting up Rust:IO 2.3.6670.37696 ...
+08:11 [Info] Rust:IO> Creating directories ...
+08:11 [Info] Rust:IO> Applying config ...
+08:11 [Info] Rust:IO> Initializing database ...
+08:11 [Info] Rust:IO> Generating map image (this may take a while) ...
+08:12 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  45472.968ms
+Postprocess  :  1013.519ms
+  Shadows    :   129.989ms
+  FXAA       :   859.204ms
+Encoding     :    43.110ms
+Other        :    13.147ms
+--------------------------
+Total        :  46542.744ms
+08:12 [Info] Rust:IO> Starting HTTP server on 185.157.247.153:28015 ...
+08:12 [Info] Rust:IO> Installed.
+08:12 [Info] Rust:IO> Now ticking
+08:12 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 46688ms [GARBAGE COLLECT]
+08:12 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 77ms [GARBAGE COLLECT]
+08:12 [Info] Rust:IO> External IP address obtained from lookup: 185.157.247.153
+08:16 [Info] Loading Oxide Core v2.0.3814...
+08:16 [Info] Loading extensions...
+08:16 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+08:16 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+08:16 [Info] Loaded extension CSharp v2.0.3846 by Oxide and Contributors
+08:16 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+08:16 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+08:16 [Info] Loaded extension Rust v2.0.3922 by Oxide and Contributors
+08:16 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+08:16 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+08:16 [Info] Using Covalence provider for game 'Rust'
+08:16 [Info] Loading plugins...
+08:16 [Info] Loaded plugin Rust v2.0.3922 by Oxide and Contributors
+08:16 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+08:16 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+08:16 [Info] BetterChat, Clans, DeathNotes, Give, Kits and ZLevelsRemastered were compiled successfully in 2144ms
+08:16 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+08:16 [Info] Loaded plugin Rust:IO Clans v1.7.3 by playrust.io / dcode
+08:16 [Info] Loaded plugin Death Notes v5.2.20 by LaserHydra
+08:16 [Info] Loaded plugin Give v3.0.0 by Wulf/lukespragg
+08:16 [Info] Loaded plugin Kits v3.2.91 by Reneb
+08:16 [Info] Loaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+08:17 [Info] Updating Rust:IO ...
+08:17 [Info] Rust:IO: Update complete
+08:17 [Info] Installing Rust:IO ...
+08:17 [Info] Rust:IO> Setting up Rust:IO 2.3.6670.37696 ...
+08:17 [Info] Rust:IO> Creating directories ...
+08:17 [Info] Rust:IO> Applying config ...
+08:17 [Info] Rust:IO> Initializing database ...
+08:17 [Info] Rust:IO> Generating map image (this may take a while) ...
+08:17 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  43508.163ms
+Postprocess  :  1013.355ms
+  Shadows    :   140.080ms
+  FXAA       :   848.482ms
+Encoding     :    44.672ms
+Other        :    13.341ms
+--------------------------
+Total        :  44579.531ms
+08:17 [Info] Rust:IO> Starting HTTP server on 185.157.247.153:28015 ...
+08:17 [Info] Rust:IO> Installed.
+08:17 [Info] Rust:IO> Now ticking
+08:17 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 44721ms [GARBAGE COLLECT]
+08:17 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 77ms [GARBAGE COLLECT]
+08:17 [Info] Rust:IO> External IP address obtained from lookup: 185.157.247.153
+08:24 [Info] Loading Oxide Core v2.0.3814...
+08:24 [Info] Loading extensions...
+08:24 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+08:24 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+08:24 [Info] Loaded extension CSharp v2.0.3846 by Oxide and Contributors
+08:24 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+08:24 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+08:24 [Info] Loaded extension Rust v2.0.3922 by Oxide and Contributors
+08:24 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+08:24 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+08:24 [Info] Using Covalence provider for game 'Rust'
+08:24 [Info] Loading plugins...
+08:24 [Info] Loaded plugin Rust v2.0.3922 by Oxide and Contributors
+08:24 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+08:24 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+08:24 [Info] BetterChat, Clans, DeathNotes, Give, Kits and ZLevelsRemastered were compiled successfully in 2162ms
+08:24 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+08:24 [Info] Loaded plugin Rust:IO Clans v1.7.3 by playrust.io / dcode
+08:24 [Info] Loaded plugin Death Notes v5.2.20 by LaserHydra
+08:24 [Info] Loaded plugin Give v3.0.0 by Wulf/lukespragg
+08:24 [Info] Loaded plugin Kits v3.2.91 by Reneb
+08:24 [Info] Loaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+08:25 [Info] Updating Rust:IO ...
+08:25 [Info] Rust:IO: Update complete
+08:25 [Info] Installing Rust:IO ...
+08:25 [Info] Rust:IO> Setting up Rust:IO 2.3.6670.37696 ...
+08:25 [Info] Rust:IO> Creating directories ...
+08:25 [Info] Rust:IO> Applying config ...
+08:25 [Info] Rust:IO> Initializing database ...
+08:25 [Info] Rust:IO> Generating map image (this may take a while) ...
+08:26 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  44731.543ms
+Postprocess  :   900.836ms
+  Shadows    :   108.074ms
+  FXAA       :   768.724ms
+Encoding     :    43.931ms
+Other        :    13.555ms
+--------------------------
+Total        :  45689.865ms
+08:26 [Info] Rust:IO> Starting HTTP server on 185.157.247.153:28015 ...
+08:26 [Info] Rust:IO> Installed.
+08:26 [Info] Rust:IO> Now ticking
+08:26 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 45835ms [GARBAGE COLLECT]
+08:26 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 77ms [GARBAGE COLLECT]
+08:26 [Info] Rust:IO> External IP address obtained from lookup: 185.157.247.153
+08:47 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+08:47 [Info] ImageLibrary was compiled successfully in 1958ms
+08:47 [Warning] [ImageLibrary] Retrieving item skin lists...
+08:47 [Info] Loaded plugin ImageLibrary v2.0.30 by Absolut & K1lly0u
+08:47 [Warning] [ImageLibrary] Found 1268 item skins. Gathering image URLs
+08:47 [Info] [ImageLibrary] Querying Steam for available workshop items. Please wait for a response from Steam...
+08:47 [Warning] Reload requested for plugin which is already loading: Give
+08:47 [Info] Unloaded plugin ImageLibrary v2.0.30 by Absolut & K1lly0u
+08:47 [Info] Loaded plugin ImageLibrary v2.0.30 by Absolut & K1lly0u
+08:47 [Info] Unloaded plugin Better Chat v5.0.19 by LaserHydra
+08:47 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+08:47 [Info] Kits was compiled successfully in 230ms
+08:47 [Info] Unloaded plugin Kits v3.2.91 by Reneb
+08:47 [Info] Give was compiled successfully in 321ms
+08:47 [Info] Unloaded plugin Give v3.0.0 by Wulf/lukespragg
+08:47 [Info] Loaded plugin Kits v3.2.91 by Reneb
+08:47 [Info] Loaded plugin Give v3.0.0 by Wulf/lukespragg
+08:47 [Info] DeathNotes was compiled successfully in 465ms
+08:47 [Info] Unloaded plugin Death Notes v5.2.20 by LaserHydra
+08:47 [Info] Loaded plugin Death Notes v5.2.20 by LaserHydra
+08:47 [Info] ZLevelsRemastered was compiled successfully in 559ms
+08:47 [Info] Unloaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+08:47 [Info] Loaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+08:47 [Info] Clans was compiled successfully in 634ms
+08:47 [Info] Unloaded plugin Rust:IO Clans v1.7.3 by playrust.io / dcode
+08:47 [Info] Loaded plugin Rust:IO Clans v1.7.3 by playrust.io / dcode
+08:48 [Error] Could not load plugin 'image' (no plugin found with that file name)
+08:51 [Info] [ImageLibrary] Querying Steam for available workshop items. Please wait for a response from Steam...
+08:54 [Info] [ImageLibrary] Found 36045 workshop items. Gathering image URLs
+08:59 [Info] [ImageLibrary] Found 34220 workshop items. Gathering image URLs
+09:09 [Info] [Better Chat] [Player] Tsuero-Sama: oxide.load "kits
+09:09 [Error] Could not load plugin 'kits' (no plugin found with that file name)
+09:09 [Error] Could not load plugin 'kit' (no plugin found with that file name)
+14:40 [Info] CraftingController was compiled successfully in 2512ms
+14:40 [Warning] [Crafting Controller] New configuration file created.
+14:40 [Info] [Crafting Controller] Configuration file updated.
+14:40 [Info] Loaded plugin Crafting Controller v2.4.8 by Mughisi
+14:52 [Error] Could not load plugin 'kits' (no plugin found with that file name)
+14:57 [Info] [Better Chat] [Player] Tsuero-Sama: cooldown 1440
+15:06 [Info] Unloaded plugin Kits v3.2.91 by Reneb
+15:06 [Info] Loaded plugin Kits v3.2.91 by Reneb
+15:08 [Info] [Better Chat] [Player] Tsuero-Sama: kit cooldown 86400
+15:08 [Info] [Better Chat] [Player] Tsuero-Sama: resetdata
+15:13 [Info] Unloaded plugin Kits v3.2.91 by Reneb
+15:13 [Info] Loaded plugin Kits v3.2.91 by Reneb
+15:19 [Info] Unloaded plugin Kits v3.2.91 by Reneb
+15:19 [Info] Loaded plugin Kits v3.2.91 by Reneb
+15:20 [Info] Unloaded plugin Kits v3.2.91 by Reneb
+15:20 [Info] Loaded plugin Kits v3.2.91 by Reneb
+15:21 [Error] Failed to call hook 'cmdChatKit' on plugin 'Kits v3.2.91' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[System.UInt64,System.String].get_Item (UInt64 key) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.Kits.cmdChatKit (.BasePlayer player, System.String command, System.String[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.Kits.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00000] in <filename unknown>:0 
+15:24 [Info] Unloaded plugin Kits v3.2.91 by Reneb
+15:24 [Info] Loaded plugin Kits v3.2.91 by Reneb
+15:46 [Info] [Better Chat] [Player] Nitro_Fr83: Admin ?
+15:46 [Info] [Better Chat] [Player] Tsuero-Sama: ouep
+15:46 [Info] [Better Chat] [Player] Tsuero-Sama: salut a toi
+15:46 [Info] [Better Chat] [Player] Nitro_Fr83: Yo t'est en construction ?
+15:47 [Info] [Better Chat] [Player] Tsuero-Sama: c'est bien ca c'est ce qui est ecrit sur l'adresse du serv :)
+15:47 [Info] [Better Chat] [Player] Nitro_Fr83: Ta un discord ? ta besoin sur le moding ?
+15:47 [Info] [Death Notes] A Wolf followed Nitro_Fr83 until it finally caught him.
+15:48 [Info] [Better Chat] [Player] Tsuero-Sama: je peux en avoir un oui ^^ ...  pas spécialement besoin d'aide je connais déjà je suis a peine en tr
+15:48 [Info] [Better Chat] [Player] Tsuero-Sama: erf faut que j'augmente le nombre de caracter
+15:48 [Info] [Better Chat] [Player] Tsuero-Sama: que l'on peux ecrite
+15:48 [Info] [Better Chat] [Player] Tsuero-Sama: donc je disais
+15:48 [Info] [Better Chat] [Player] Nitro_Fr83: tu compte laisser le loot comme sa ?Q
+15:49 [Info] [Better Chat] [Player] Tsuero-Sama: je suis a peine en train en train de commencer la config
+15:49 [Info] [Better Chat] [Player] Nitro_Fr83: h srry
+15:49 [Info] [Better Chat] [Player] Nitro_Fr83: Ag
+15:49 [Info] [Better Chat] [Player] Nitro_Fr83: Ah
+15:49 [Info] [Better Chat] [Player] Tsuero-Sama: je ne sais pas encore tout depend   pourquoi ?
+15:49 [Info] [Better Chat] [Player] Nitro_Fr83: Monte un peu a mon avis
+15:50 [Info] [Better Chat] [Player] Tsuero-Sama: je verrais ca mais ca fait un bail que j'ai pas play rust
+15:50 [Info] [Better Chat] [Player] Tsuero-Sama: et je trouve qu'il y a eu du mieux en rajout
+15:51 [Info] [Better Chat] [Player] Tsuero-Sama: apres si tu tape comme il faut tes arbre et pierre ca te donne plus de ressource :p
+15:51 [Info] [Better Chat] [Player] Tsuero-Sama: j'ai trouver ca marrant qd je suis revenu sur le jeu
+15:53 [Info] [Better Chat] [Player] Tsuero-Sama: https://discord.gg/abUY2Wy
+15:53 [Info] [Better Chat] [Player] Tsuero-Sama: si tu veux
+16:05 [Info] [Death Notes] A Bear followed Tsuero-Sama until it finally caught him.
+16:14 [Info] Unloaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+16:14 [Info] Loaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+16:15 [Info] Unloaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+16:15 [Info] Loaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+16:17 [Info] [Death Notes] Tsuero-Sama had enough of life.
+16:39 [Info] Kits was compiled successfully in 2473ms
+16:39 [Info] Unloaded plugin Kits v3.2.91 by Reneb
+16:39 [Info] Loaded plugin Kits v3.2.91 by Reneb
+16:40 [Info] Unloaded plugin Kits v3.2.91 by Reneb
+16:40 [Info] Loaded plugin Kits v3.2.91 by Reneb
+16:41 [Info] Unloaded plugin Kits v3.2.91 by Reneb
+16:41 [Info] Loaded plugin Kits v3.2.91 by Reneb
+16:48 [Info] [Better Chat] [Player] Tsuero-Sama: d
+16:48 [Info] [Better Chat] [Player] Tsuero-Sama: d
+16:50 [Info] Unloaded plugin Better Chat v5.0.19 by LaserHydra
+16:51 [Info] BetterChat was compiled successfully in 3080ms
+16:51 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+16:53 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'betterchat.admin'
+16:54 [Error] Could not load plugin 'kits' (no plugin found with that file name)
+17:00 [Info] [Better Chat] [admin] [Player] Tsuero-Sama: dd
+17:02 [Info] [Better Chat] [admin] [Player] Tsuero-Sama: dd
+17:04 [Info] [Better Chat] [admin] [Player] Tsuero-Sama: dd
+17:04 [Info] Unloaded plugin Better Chat v5.0.19 by LaserHydra
+17:04 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+17:04 [Info] [Better Chat] [Player] Tsuero-Sama: dd
+17:06 [Info] Unloaded plugin Better Chat v5.0.19 by LaserHydra
+17:06 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+17:06 [Info] [Better Chat] [Admin]  Tsuero-Sama: dd
+17:07 [Info] Unloaded plugin Better Chat v5.0.19 by LaserHydra
+17:07 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+17:07 [Info] [Better Chat] [Admin]  Tsuero-Sama: sdd
+17:08 [Info] Unloaded plugin Better Chat v5.0.19 by LaserHydra
+17:08 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+17:08 [Info] [Better Chat] [Admin]  Tsuero-Sama: dd
+17:08 [Info] Unloaded plugin Better Chat v5.0.19 by LaserHydra
+17:08 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+17:08 [Info] [Better Chat] [Admin]  Tsuero-Sama: dd
+17:09 [Info] Unloaded plugin Better Chat v5.0.19 by LaserHydra
+17:09 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+17:09 [Info] [Better Chat] [Admin]  Tsuero-Sama: dd
+17:09 [Info] [Better Chat] [Admin]  Tsuero-Sama: d
+17:09 [Info] Unloaded plugin Better Chat v5.0.19 by LaserHydra
+17:09 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+17:09 [Info] [Better Chat] [Admin]  Tsuero-Sama: d
+17:09 [Info] Unloaded plugin Better Chat v5.0.19 by LaserHydra
+17:09 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+17:09 [Info] [Better Chat] [Admin]  Tsuero-Sama: dd
+17:10 [Info] [Better Chat] [Admin]  Tsuero-Sama: ddd
+17:10 [Info] Unloaded plugin Better Chat v5.0.19 by LaserHydra
+17:10 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+17:10 [Info] [Better Chat] [Admin]  Tsuero-Sama: dddfz
+17:11 [Info] Unloaded plugin Better Chat v5.0.19 by LaserHydra
+17:11 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+17:11 [Info] [Better Chat] [Admin]  Tsuero-Sama: dd
+17:11 [Info] [Better Chat] [Admin]  Tsuero-Sama: ddd
+17:11 [Info] Unloaded plugin Better Chat v5.0.19 by LaserHydra
+17:12 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+17:12 [Info] [Better Chat] [Admin]  Tsuero-Sama: dd
+17:13 [Info] [Better Chat] [Admin]  Tsuero-Sama: dd
+17:13 [Info] [Better Chat] [Admin]  Tsuero-Sama: dd
+17:13 [Info] Unloaded plugin Better Chat v5.0.19 by LaserHydra
+17:13 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+17:13 [Info] [Better Chat] [Admin]  Tsuero-Sama: dd
+17:21 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'deathnotes.customize'
+17:22 [Warning] [Death Notes] Failed to get information!
+17:22 [Warning] [Death Notes] Failed to get information!
+17:25 [Info] Unloaded plugin Death Notes v5.2.20 by LaserHydra
+17:25 [Info] Loaded plugin Death Notes v5.2.20 by LaserHydra
+17:25 [Info] [Death Notes] Tsuero-Sama had enough of life.
+17:46 [Info] Unloaded plugin Death Notes v5.2.20 by LaserHydra
+17:46 [Info] Loaded plugin Death Notes v5.2.20 by LaserHydra
+17:46 [Info] [Death Notes] Tsuero-Sama had enough of life.
+17:47 [Info] [Death Notes] Tsuero-Sama had enough of life.
+17:48 [Info] Unloaded plugin Death Notes v5.2.20 by LaserHydra
+17:48 [Info] Loaded plugin Death Notes v5.2.20 by LaserHydra
+17:48 [Info] [Death Notes] Tsuero-Sama had enough of life.
+17:56 [Info] Unloaded plugin Give v3.0.0 by Wulf/lukespragg
+17:56 [Info] Loaded plugin Give v3.0.0 by Wulf/lukespragg
+17:59 [Info] Unloaded plugin Kits v3.2.91 by Reneb
+17:59 [Info] Loaded plugin Kits v3.2.91 by Reneb
+17:59 [Info] Unloaded plugin Give v3.0.0 by Wulf/lukespragg
+17:59 [Info] Loaded plugin Give v3.0.0 by Wulf/lukespragg
+17:59 [Info] Unloaded plugin Death Notes v5.2.20 by LaserHydra
+17:59 [Info] Loaded plugin Death Notes v5.2.20 by LaserHydra
+17:59 [Info] Unloaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+17:59 [Info] Loaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+17:59 [Info] Unloaded plugin Rust:IO Clans v1.7.3 by playrust.io / dcode
+17:59 [Info] Loaded plugin Rust:IO Clans v1.7.3 by playrust.io / dcode
+17:59 [Info] Unloaded plugin Crafting Controller v2.4.8 by Mughisi
+17:59 [Info] Loaded plugin Crafting Controller v2.4.8 by Mughisi
+17:59 [Info] Unloaded plugin ImageLibrary v2.0.30 by Absolut & K1lly0u
+17:59 [Warning] Calling 'OnServerInitialized' on 'ImageLibrary v2.0.30' took 474ms
+17:59 [Info] Loaded plugin ImageLibrary v2.0.30 by Absolut & K1lly0u
+17:59 [Info] Unloaded plugin Better Chat v5.0.19 by LaserHydra
+17:59 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+18:01 [Info] Loading Oxide Core v2.0.3814...
+18:01 [Info] Loading extensions...
+18:01 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+18:01 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+18:01 [Info] Loaded extension CSharp v2.0.3846 by Oxide and Contributors
+18:01 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+18:01 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+18:01 [Info] Loaded extension Rust v2.0.3922 by Oxide and Contributors
+18:01 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+18:01 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+18:01 [Info] Using Covalence provider for game 'Rust'
+18:01 [Info] Loading plugins...
+18:01 [Info] Loaded plugin Rust v2.0.3922 by Oxide and Contributors
+18:01 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+18:01 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+18:01 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+18:01 [Info] BetterChat, Clans, CraftingController, DeathNotes, Give, ImageLibrary, Kits and ZLevelsRemastered were compiled successfully in 2806ms
+18:01 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+18:01 [Info] Loaded plugin Rust:IO Clans v1.7.3 by playrust.io / dcode
+18:01 [Info] Loaded plugin Crafting Controller v2.4.8 by Mughisi
+18:01 [Info] Loaded plugin Death Notes v5.2.20 by LaserHydra
+18:01 [Info] Loaded plugin Give v3.0.0 by Wulf/lukespragg
+18:01 [Info] Loaded plugin ImageLibrary v2.0.30 by Absolut & K1lly0u
+18:01 [Info] Loaded plugin Kits v3.2.91 by Reneb
+18:01 [Info] Loaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+18:02 [Info] Updating Rust:IO ...
+18:02 [Info] Rust:IO: Update complete
+18:02 [Warning] Calling 'OnServerInitialized' on 'ImageLibrary v2.0.30' took 520ms [GARBAGE COLLECT]
+18:02 [Info] Installing Rust:IO ...
+18:02 [Info] Rust:IO> Setting up Rust:IO 2.3.6670.37696 ...
+18:02 [Info] Rust:IO> Creating directories ...
+18:02 [Info] Rust:IO> Applying config ...
+18:02 [Info] Rust:IO> Initializing database ...
+18:02 [Info] Rust:IO> Generating map image (this may take a while) ...
+18:02 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  43602.281ms
+Postprocess  :   988.848ms
+  Shadows    :   107.780ms
+  FXAA       :   856.567ms
+Encoding     :    41.785ms
+Other        :    12.477ms
+--------------------------
+Total        :  44645.390ms
+18:02 [Info] Rust:IO> Starting HTTP server on 185.157.247.153:28015 ...
+18:02 [Info] Rust:IO> Installed.
+18:02 [Info] Rust:IO> Now ticking
+18:02 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 44786ms [GARBAGE COLLECT]
+18:02 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 79ms [GARBAGE COLLECT]
+18:02 [Info] Rust:IO> External IP address obtained from lookup: 185.157.247.153
+18:26 [Info] MagicDescription was compiled successfully in 1998ms
+18:26 [Info] [Magic Description] Server description updated!
+18:26 [Info] Loaded plugin Magic Description v1.3.1 by Wulf/lukespragg
+18:27 [Info] Unloaded plugin Magic Description v1.3.1 by Wulf/lukespragg
+18:27 [Info] Loaded plugin Magic Description v1.3.1 by Wulf/lukespragg
+18:27 [Info] Unloaded plugin Magic Description v1.3.1 by Wulf/lukespragg
+18:27 [Info] Loaded plugin Magic Description v1.3.1 by Wulf/lukespragg
+18:27 [Info] Kits was compiled successfully in 331ms
+18:27 [Info] Unloaded plugin Kits v3.2.91 by Reneb
+18:27 [Info] Unloaded plugin ImageLibrary v2.0.30 by Absolut & K1lly0u
+18:27 [Warning] Calling 'OnServerInitialized' on 'ImageLibrary v2.0.30' took 593ms [GARBAGE COLLECT]
+18:27 [Info] Loaded plugin ImageLibrary v2.0.30 by Absolut & K1lly0u
+18:27 [Info] Loaded plugin Kits v3.2.91 by Reneb
+18:27 [Info] Give, DeathNotes and ZLevelsRemastered were compiled successfully in 405ms
+18:27 [Info] Unloaded plugin Give v3.0.0 by Wulf/lukespragg
+18:27 [Info] Unloaded plugin Death Notes v5.2.20 by LaserHydra
+18:27 [Info] Unloaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+18:27 [Info] Clans was compiled successfully in 754ms
+18:27 [Info] Unloaded plugin Rust:IO Clans v1.7.3 by playrust.io / dcode
+18:27 [Info] CraftingController was compiled successfully in 729ms
+18:27 [Info] Unloaded plugin Crafting Controller v2.4.8 by Mughisi
+18:27 [Info] Loaded plugin Give v3.0.0 by Wulf/lukespragg
+18:27 [Info] Loaded plugin Death Notes v5.2.20 by LaserHydra
+18:27 [Info] Loaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+18:27 [Info] Loaded plugin Rust:IO Clans v1.7.3 by playrust.io / dcode
+18:27 [Info] Loaded plugin Crafting Controller v2.4.8 by Mughisi
+18:27 [Info] BetterChat was compiled successfully in 151ms
+18:27 [Info] Unloaded plugin Better Chat v5.0.19 by LaserHydra
+18:27 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+18:37 [Info] Loading Oxide Core v2.0.3814...
+18:37 [Info] Loading extensions...
+18:37 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+18:37 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+18:37 [Info] Loaded extension CSharp v2.0.3846 by Oxide and Contributors
+18:37 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+18:37 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+18:37 [Info] Loaded extension Rust v2.0.3922 by Oxide and Contributors
+18:37 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+18:37 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+18:37 [Info] Using Covalence provider for game 'Rust'
+18:37 [Info] Loading plugins...
+18:37 [Info] Loaded plugin Rust v2.0.3922 by Oxide and Contributors
+18:37 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+18:37 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+18:37 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+18:37 [Info] BetterChat, Clans, CraftingController, DeathNotes, Give, ImageLibrary, Kits, MagicDescription and ZLevelsRemastered were compiled successfully in 2209ms
+18:37 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+18:37 [Info] Loaded plugin Rust:IO Clans v1.7.3 by playrust.io / dcode
+18:37 [Info] Loaded plugin Crafting Controller v2.4.8 by Mughisi
+18:37 [Info] Loaded plugin Death Notes v5.2.20 by LaserHydra
+18:37 [Info] Loaded plugin Give v3.0.0 by Wulf/lukespragg
+18:37 [Info] Loaded plugin ImageLibrary v2.0.30 by Absolut & K1lly0u
+18:37 [Info] Loaded plugin Kits v3.2.91 by Reneb
+18:37 [Info] Loaded plugin Magic Description v1.3.1 by Wulf/lukespragg
+18:37 [Info] Loaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+18:38 [Info] Updating Rust:IO ...
+18:38 [Info] Rust:IO: Update complete
+18:38 [Warning] Calling 'OnServerInitialized' on 'ImageLibrary v2.0.30' took 522ms [GARBAGE COLLECT]
+18:38 [Info] [Magic Description] Server description updated!
+18:38 [Info] Installing Rust:IO ...
+18:38 [Info] Rust:IO> Setting up Rust:IO 2.3.6670.37696 ...
+18:38 [Info] Rust:IO> Creating directories ...
+18:38 [Info] Rust:IO> Applying config ...
+18:38 [Info] Rust:IO> Initializing database ...
+18:38 [Info] Rust:IO> Generating map image (this may take a while) ...
+18:39 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  65080.648ms
+Postprocess  :  1762.392ms
+  Shadows    :   225.904ms
+  FXAA       :  1465.669ms
+Encoding     :    42.028ms
+Other        :    13.338ms
+--------------------------
+Total        :  66898.406ms
+18:39 [Info] Rust:IO> Starting HTTP server on 185.157.247.153:28015 ...
+18:39 [Info] Rust:IO> Installed.
+18:39 [Info] Rust:IO> Now ticking
+18:39 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 67052ms [GARBAGE COLLECT]
+18:39 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 84ms [GARBAGE COLLECT]
+18:39 [Info] Rust:IO> External IP address obtained from lookup: 185.157.247.153
+18:55 [Info] [Magic Description] Server description updated!
+18:55 [Info] server.description: This is the default LinuxGSM server description.\nThe command line tool for quick, simple deployment and management
+18:58 [Info] server.description: This is the default LinuxGSM server description.\nThe command line tool for quick, simple deployment and management
+19:00 [Info] server.description: This is the default LinuxGSM server description.\nThe command line tool for quick, simple deployment and management
+19:06 [Info] server.description: This is the default LinuxGSM server description.\nThe command line tool for quick, simple deployment and management
+19:08 [Info] server.description: This is the default LinuxGSM server description.\nThe command line tool for quick, simple deployment and management
+19:09 [Info] [Magic Description] Server description updated!
+19:09 [Info] server.description: Bien le bonjour,//n//n Actuellement le serveur est en cours de cr��ation mais bientot vous trouverez: //n//n village - pnj - events - quetes - et bien d'autre encore //n//n Pour plus d'infos n'hesitez pas a venir nous voir ingame //n//n a tres bientot.//n//n
+19:10 [Info] [Magic Description] Server description updated!
+19:10 [Info] server.description: Bien le bonjour,//n//n Actuellement le serveur est en cours de creation mais bientot vous trouverez: //n//n village - pnj - events - quetes - et bien d'autre encore //n//n Pour plus d'infos n'hesitez pas a venir nous voir ingame //n//n a tres bientot.//n//n
+19:10 [Info] [Magic Description] Server description updated!
+19:10 [Info] server.description: This is the default LinuxGSM server description.\nThe command line tool for quick, simple deployment and management
+19:10 [Info] [Magic Description] Server description updated!
+19:10 [Info] server.description: Bien le bonjour,//n//n Actuellement le serveur est en cours de creation mais bientot vous trouverez: //n//n village - pnj - events - quetes - et bien d'autre encore //n//n Pour plus d'infos n'hesitez pas a venir nous voir ingame //n//n a tres bientot.//n//n
+19:14 [Info] [Magic Description] Server description updated!
+19:14 [Info] server.description: Bien le bonjour,/n/n Actuellement le serveur est en cours de cr��ation mais bientot vous trouverez:/n/n village - pnj - events - quetes - et bien d'autre encore /n/n Pour plus d'infos n'hesitez pas a venir nous voir ingame /n/n a tres bientot./n/n
+19:14 [Info] [Magic Description] Server description updated!
+19:14 [Info] server.description: This is the default LinuxGSM server description.\nThe command line tool for quick, simple deployment and management
+19:14 [Info] [Magic Description] Server description updated!
+19:14 [Info] server.description: Bien le bonjour,/n/n Actuellement le serveur est en cours de cr��ation mais bientot vous trouverez:/n/n village - pnj - events - quetes - et bien d'autre encore /n/n Pour plus d'infos n'hesitez pas a venir nous voir ingame /n/n a tres bientot./n/n
+19:15 [Info] [Magic Description] Server description updated!
+19:15 [Info] server.description: This is the default LinuxGSM server description.\nThe command line tool for quick, simple deployment and management
+19:16 [Info] server.description: This is the default LinuxGSM server description.\nThe command line tool for quick, simple deployment and management
+19:17 [Info] Loading Oxide Core v2.0.3814...
+19:17 [Info] Loading extensions...
+19:17 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+19:17 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+19:17 [Info] Loaded extension CSharp v2.0.3846 by Oxide and Contributors
+19:17 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+19:17 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+19:17 [Info] Loaded extension Rust v2.0.3922 by Oxide and Contributors
+19:17 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+19:17 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+19:17 [Info] Using Covalence provider for game 'Rust'
+19:17 [Info] Loading plugins...
+19:17 [Info] Loaded plugin Rust v2.0.3922 by Oxide and Contributors
+19:17 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+19:17 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+19:17 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+19:17 [Info] BetterChat, Clans, CraftingController, DeathNotes, Give, ImageLibrary, Kits, MagicDescription and ZLevelsRemastered were compiled successfully in 2189ms
+19:17 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+19:17 [Info] Loaded plugin Rust:IO Clans v1.7.3 by playrust.io / dcode
+19:17 [Info] Loaded plugin Crafting Controller v2.4.8 by Mughisi
+19:17 [Info] Loaded plugin Death Notes v5.2.20 by LaserHydra
+19:17 [Info] Loaded plugin Give v3.0.0 by Wulf/lukespragg
+19:17 [Info] Loaded plugin ImageLibrary v2.0.30 by Absolut & K1lly0u
+19:17 [Info] Loaded plugin Kits v3.2.91 by Reneb
+19:17 [Error] MagicDescription v1.3.1: Failed to load config file (is the config file corrupt?) (Invalid JavaScript property identifier character: .. Path '', line 2, position 8.)
+19:17 [Warning] [Magic Description] Could not read oxide/config/MagicDescription.json, creating new config file
+19:17 [Info] Loaded plugin Magic Description v1.3.1 by Wulf/lukespragg
+19:17 [Info] Loaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+19:18 [Info] Updating Rust:IO ...
+19:18 [Info] Rust:IO: Update complete
+19:18 [Warning] Calling 'OnServerInitialized' on 'ImageLibrary v2.0.30' took 581ms [GARBAGE COLLECT]
+19:18 [Info] [Magic Description] Server description updated!
+19:18 [Info] Installing Rust:IO ...
+19:18 [Info] Rust:IO> Setting up Rust:IO 2.3.6670.37696 ...
+19:18 [Info] Rust:IO> Creating directories ...
+19:18 [Info] Rust:IO> Applying config ...
+19:18 [Info] Rust:IO> Initializing database ...
+19:18 [Info] Rust:IO> Generating map image (this may take a while) ...
+19:19 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  51210.223ms
+Postprocess  :  1046.139ms
+  Shadows    :   122.646ms
+  FXAA       :   896.531ms
+Encoding     :    41.826ms
+Other        :    13.313ms
+--------------------------
+Total        :  52311.502ms
+19:19 [Info] Rust:IO> Starting HTTP server on 185.157.247.153:28015 ...
+19:19 [Info] Rust:IO> Installed.
+19:19 [Info] Rust:IO> Now ticking
+19:19 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 52464ms [GARBAGE COLLECT]
+19:19 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 87ms [GARBAGE COLLECT]
+19:19 [Info] Rust:IO> External IP address obtained from lookup: 185.157.247.153
+19:21 [Info] [Magic Description] Server description updated!
+19:21 [Info] server.description: This is the default LinuxGSM server description.\nThe command line tool for quick, simple deployment and management
+19:24 [Info] server.description: This is the default LinuxGSM server description.\nThe command line tool for quick, simple deployment and management
+19:26 [Info] [Magic Description] Server description updated!
+19:26 [Info] server.description: Bien le bonjour,//n//n Actuellement le serveur est en cours de creation mais bientot vous trouverez: //n//n village - pnj - events - quetes - et bien d'autre encore //n//n Pour plus d'infos n'hesitez pas a venir nous voir ingame //n//n a tres bientot.//n//n
+19:27 [Info] [Magic Description] Server description updated!
+19:27 [Info] server.description: This is the default LinuxGSM server description.\nThe command line tool for quick, simple deployment and management
+19:27 [Info] [Magic Description] Server description updated!
+19:27 [Info] server.description: Bien le bonjour,//n//n Actuellement le serveur est en cours de creation mais bientot vous trouverez: //n//n village - pnj - events - quetes - et bien d'autre encore //n//n Pour plus d'infos n'hesitez pas a venir nous voir ingame //n//n a tres bientot.//n//n
+19:28 [Info] [Magic Description] Server description updated!
+19:28 [Info] server.description: Bien le bonjour,/n/n Actuellement le serveur est en cours de creation mais bientot vous trouverez: /n/n village - pnj - events - quetes - et bien d'autre encore /n/n Pour plus d'infos n'hesitez pas a venir nous voir ingame /n/n a tres bientot./n/n
+19:32 [Info] [Magic Description] Server description updated!
+19:32 [Info] server.description: Bien le bonjour,\n\n Actuellement le serveur est en cours de creation mais bientot vous trouverez: \n\n village - pnj - events - quetes - et bien d'autre encore \n\n Pour plus d'infos n'hesitez pas a venir nous voir ingame \n\n a tres bientot.\n\n
+19:35 [Info] server.description: Bien le bonjour,\n\n Actuellement le serveur est en cours de creation mais bientot vous trouverez: \n\n village - pnj - events - quetes - et bien d'autre encore \n\n Pour plus d'infos n'hesitez pas a venir nous voir ingame \n\n a tres bientot.\n\n
+19:38 [Info] [Magic Description] Server description updated!
+19:38 [Info] server.description: Bien le bonjour,\n\n Actuellement le serveur est en cours de creation mais bientot vous trouverez: \n\n village - pnj - events - quetes - et bien d'autre encore \n\n Pour plus d'infos n'hesitez pas a venir nous voir ingame \n\n a tres bientot.\n\n {magic.version} for Rust {magic.version protocol}\\n\\n{server.pve}
+19:42 [Info] Loading Oxide Core v2.0.3814...
+19:42 [Info] Loading extensions...
+19:42 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+19:42 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+19:42 [Info] Loaded extension CSharp v2.0.3846 by Oxide and Contributors
+19:42 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+19:42 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+19:42 [Info] Loaded extension Rust v2.0.3922 by Oxide and Contributors
+19:42 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+19:42 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+19:42 [Info] Using Covalence provider for game 'Rust'
+19:42 [Info] Loading plugins...
+19:42 [Info] Loaded plugin Rust v2.0.3922 by Oxide and Contributors
+19:42 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+19:42 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+19:42 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+19:42 [Info] BetterChat, Clans, CraftingController, DeathNotes, Give, ImageLibrary, Kits, MagicDescription and ZLevelsRemastered were compiled successfully in 2165ms
+19:42 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+19:42 [Info] Loaded plugin Rust:IO Clans v1.7.3 by playrust.io / dcode
+19:42 [Info] Loaded plugin Crafting Controller v2.4.8 by Mughisi
+19:42 [Info] Loaded plugin Death Notes v5.2.20 by LaserHydra
+19:42 [Info] Loaded plugin Give v3.0.0 by Wulf/lukespragg
+19:42 [Info] Loaded plugin ImageLibrary v2.0.30 by Absolut & K1lly0u
+19:42 [Info] Loaded plugin Kits v3.2.91 by Reneb
+19:42 [Info] Loaded plugin Magic Description v1.3.1 by Wulf/lukespragg
+19:42 [Info] Loaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+19:43 [Info] Updating Rust:IO ...
+19:43 [Info] Rust:IO: Update complete
+19:43 [Warning] Calling 'OnServerInitialized' on 'ImageLibrary v2.0.30' took 550ms [GARBAGE COLLECT]
+19:43 [Info] [Magic Description] Server description updated!
+19:43 [Info] Installing Rust:IO ...
+19:43 [Info] Rust:IO> Setting up Rust:IO 2.3.6670.37696 ...
+19:43 [Info] Rust:IO> Creating directories ...
+19:43 [Info] Rust:IO> Applying config ...
+19:43 [Info] Rust:IO> Initializing database ...
+19:43 [Info] Rust:IO> Generating map image (this may take a while) ...
+19:44 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  44085.959ms
+Postprocess  :  1048.028ms
+  Shadows    :   127.220ms
+  FXAA       :   896.830ms
+Encoding     :    42.858ms
+Other        :    13.336ms
+--------------------------
+Total        :  45190.182ms
+19:44 [Info] Rust:IO> Starting HTTP server on 185.157.247.153:28015 ...
+19:44 [Info] Rust:IO> Installed.
+19:44 [Info] Rust:IO> Now ticking
+19:44 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 45339ms [GARBAGE COLLECT]
+19:44 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 86ms [GARBAGE COLLECT]
+19:44 [Info] Rust:IO> External IP address obtained from lookup: 185.157.247.153

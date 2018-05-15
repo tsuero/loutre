@@ -1,0 +1,5 @@
+[05/12/2018 09:46:06] Tsuero-Sama (76561198022298131) dropped survey_charge.deployed at (X: -1212.6, Y: 1.16, Z: 168.83)
+[05/12/2018 09:52:03] Tsuero-Sama (76561198022298131) dropped explosive.timed.deployed at (X: -1216.37, Y: 1.42, Z: 175.74)
+[05/12/2018 10:06:00] LouFi_99 (76561198386285012) dropped grenade.smoke.deployed at (X: -445.31, Y: 19.63, Z: 1050.42)
+[05/12/2018 17:25:29] Tsuero-Sama (76561198022298131) dropped grenade.smoke.deployed at (X: -721.27, Y: 1.5, Z: 752.09)
+[05/12/2018 17:25:49] Tsuero-Sama (76561198022298131) dropped grenade.smoke.deployed at (X: -710.44, Y: 1.53, Z: 753.9)

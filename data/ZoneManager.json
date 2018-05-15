@@ -1,0 +1,21 @@
+{
+  "ZoneDefinitions": [
+    {
+      "Name": "Village",
+      "Radius": 380.0,
+      "Radiation": 0.0,
+      "Comfort": 0.0,
+      "Temperature": 0.0,
+      "Location": "847.8299 43.31711 -1735.277",
+      "Size": "0 0 0",
+      "Rotation": "0 0 0",
+      "Id": "53786693",
+      "EnterMessage": null,
+      "LeaveMessage": null,
+      "Permission": null,
+      "EjectSpawns": null,
+      "Enabled": true,
+      "Flags": "AutoLights, PvpGod, PveGod, SleepGod, UnDestr, NoBuild, NoDecay, NoKits, NoSuicide, NoRemove, NoBleed, NoStability, NoUpgrade, NoCollect, AlwaysLights, NoHeliTargeting, NoTurretTargeting, NoNPCTargeting"
+    }
+  ]
+}

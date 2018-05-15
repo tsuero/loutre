@@ -1,0 +1,2 @@
+[05/14/2018 06:16:33] Max (76561198271944168) dropped grenade.smoke.deployed at (X: 914.92, Y: 2.97, Z: 1306.28)
+[05/14/2018 07:49:24] Max (76561198271944168) dropped grenade.smoke.deployed at (X: 727.94, Y: 32.15, Z: 267.77)

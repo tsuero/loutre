@@ -1,0 +1,152 @@
+17:16 [Info] Loading Oxide Core v2.0.3814...
+17:16 [Info] Loading extensions...
+17:16 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+17:16 [Info] Local compiler MD5: 0
+17:16 [Info] Compiler hashes did not match, downloading latest
+17:16 [Info] Downloading CSharpCompiler.x86_x64 for .cs (C#) plugin compilation
+17:16 [Info] Local hash did not match remote hash for CSharpCompiler.x86_x64, attempting download again
+17:16 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+17:16 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+17:16 [Info] Loaded extension CSharp v2.0.3846 by Oxide and Contributors
+17:16 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+17:16 [Info] Loaded extension Rust v2.0.3922 by Oxide and Contributors
+17:16 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+17:16 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+17:16 [Info] Using Covalence provider for game 'Rust'
+17:16 [Info] Loading plugins...
+17:16 [Info] Loaded plugin Rust v2.0.3922 by Oxide and Contributors
+17:16 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+17:17 [Info] Loading Oxide Core v2.0.3814...
+17:17 [Info] Loading extensions...
+17:17 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+17:17 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+17:17 [Info] Loaded extension CSharp v2.0.3846 by Oxide and Contributors
+17:17 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+17:17 [Info] Loaded extension Rust v2.0.3922 by Oxide and Contributors
+17:17 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+17:17 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+17:17 [Info] Using Covalence provider for game 'Rust'
+17:17 [Info] Loading plugins...
+17:17 [Info] Loaded plugin Rust v2.0.3922 by Oxide and Contributors
+17:17 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+17:18 [Info] Kits was compiled successfully in 2025ms
+17:18 [Info] Loaded plugin Kits v3.2.91 by Reneb
+17:19 [Info] DeathNotes was compiled successfully in 228ms
+17:19 [Warning] [Death Notes] Generating new config file...
+17:19 [Info] Loaded plugin Death Notes v5.2.20 by LaserHydra
+17:22 [Info] ZLevelsRemastered was compiled successfully in 2111ms
+17:22 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.4' took 115ms
+17:22 [Info] Loaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+17:25 [Info] Clans was compiled successfully in 1878ms
+17:25 [Info] [Rust:IO Clans] Rust:IO is not present. You need to install Rust:IO first in order to use this plugin!
+17:25 [Info] Loaded plugin Rust:IO Clans v1.7.3 by playrust.io / dcode
+17:26 [Info] BetterChat was compiled successfully in 453ms
+17:26 [Warning] [Better Chat] Generating new config file...
+17:26 [Warning] [Better Chat] Added field to config: Maximal Titles
+17:26 [Warning] [Better Chat] Added field to config: Maximal Characters Per Message
+17:26 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+17:30 [Info] Usage: oxide.reload *|<pluginname>+
+17:54 [Info] Unloaded plugin Kits v3.2.91 by Reneb
+17:54 [Info] Loaded plugin Kits v3.2.91 by Reneb
+17:54 [Info] Unloaded plugin Death Notes v5.2.20 by LaserHydra
+17:54 [Info] Loaded plugin Death Notes v5.2.20 by LaserHydra
+17:54 [Info] Unloaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+17:54 [Info] Loaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+17:54 [Info] Unloaded plugin Rust:IO Clans v1.7.3 by playrust.io / dcode
+17:54 [Info] [Rust:IO Clans] Rust:IO is not present. You need to install Rust:IO first in order to use this plugin!
+17:54 [Info] Loaded plugin Rust:IO Clans v1.7.3 by playrust.io / dcode
+17:54 [Info] Unloaded plugin Better Chat v5.0.19 by LaserHydra
+17:54 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+17:55 [Info] Loading Oxide Core v2.0.3814...
+17:55 [Info] Loading extensions...
+17:55 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+17:55 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+17:55 [Info] Loaded extension CSharp v2.0.3846 by Oxide and Contributors
+17:55 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+17:55 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+17:55 [Info] Loaded extension Rust v2.0.3922 by Oxide and Contributors
+17:55 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+17:55 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+17:55 [Info] Using Covalence provider for game 'Rust'
+17:55 [Info] [Rcon] Server started successfully on port 28016
+17:55 [Info] Loading plugins...
+17:55 [Info] Loaded plugin Rust v2.0.3922 by Oxide and Contributors
+17:55 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+17:55 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+17:55 [Info] BetterChat, Clans, DeathNotes, Kits and ZLevelsRemastered were compiled successfully in 2132ms
+17:55 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+17:55 [Info] Loaded plugin Rust:IO Clans v1.7.3 by playrust.io / dcode
+17:55 [Info] Loaded plugin Death Notes v5.2.20 by LaserHydra
+17:55 [Info] Loaded plugin Kits v3.2.91 by Reneb
+17:55 [Info] Loaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+17:56 [Info] Updating Rust:IO ...
+17:56 [Info] Rust:IO: Update complete
+17:56 [Info] Installing Rust:IO ...
+17:56 [Info] Rust:IO> Setting up Rust:IO 2.3.6670.37696 ...
+17:56 [Info] Rust:IO> Creating directories ...
+17:56 [Info] Rust:IO> Applying config ...
+17:56 [Info] Rust:IO> Initializing database ...
+17:56 [Info] Rust:IO> Generating map image (this may take a while) ...
+17:57 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  42357.979ms
+Postprocess  :  1001.061ms
+  Shadows    :   115.057ms
+  FXAA       :   861.060ms
+Encoding     :    43.440ms
+Other        :    12.815ms
+--------------------------
+Total        :  43415.295ms
+17:57 [Info] Rust:IO> Starting HTTP server on 185.157.247.153:28015 ...
+17:57 [Info] Rust:IO> Installed.
+17:57 [Info] Rust:IO> Now ticking
+17:57 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 43579ms [GARBAGE COLLECT]
+17:57 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 69ms [GARBAGE COLLECT]
+17:57 [Info] Rust:IO> External IP address obtained from lookup: 185.157.247.153
+18:01 [Info] Loading Oxide Core v2.0.3814...
+18:01 [Info] Loading extensions...
+18:01 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+18:01 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+18:01 [Info] Loaded extension CSharp v2.0.3846 by Oxide and Contributors
+18:01 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+18:01 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+18:01 [Info] Loaded extension Rust v2.0.3922 by Oxide and Contributors
+18:01 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+18:01 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+18:01 [Info] Using Covalence provider for game 'Rust'
+18:01 [Info] Loading plugins...
+18:01 [Info] Loaded plugin Rust v2.0.3922 by Oxide and Contributors
+18:01 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+18:01 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+18:01 [Info] BetterChat, Clans, DeathNotes, Kits and ZLevelsRemastered were compiled successfully in 2127ms
+18:01 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+18:01 [Info] Loaded plugin Rust:IO Clans v1.7.3 by playrust.io / dcode
+18:01 [Info] Loaded plugin Death Notes v5.2.20 by LaserHydra
+18:01 [Info] Loaded plugin Kits v3.2.91 by Reneb
+18:01 [Info] Loaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+18:02 [Info] Updating Rust:IO ...
+18:02 [Info] Rust:IO: Update complete
+18:02 [Info] Installing Rust:IO ...
+18:02 [Info] Rust:IO> Setting up Rust:IO 2.3.6670.37696 ...
+18:02 [Info] Rust:IO> Creating directories ...
+18:02 [Info] Rust:IO> Applying config ...
+18:02 [Info] Rust:IO> Initializing database ...
+18:02 [Info] Rust:IO> Generating map image (this may take a while) ...
+18:03 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  44559.553ms
+Postprocess  :   876.329ms
+  Shadows    :   125.277ms
+  FXAA       :   725.159ms
+Encoding     :    43.709ms
+Other        :    13.815ms
+--------------------------
+Total        :  45493.407ms
+18:03 [Info] Rust:IO> Starting HTTP server on 185.157.247.153:28015 ...
+18:03 [Info] Rust:IO> Installed.
+18:03 [Info] Rust:IO> Now ticking
+18:03 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 45630ms [GARBAGE COLLECT]
+18:03 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 78ms [GARBAGE COLLECT]
+18:03 [Info] Rust:IO> External IP address obtained from lookup: 185.157.247.153
+18:13 [Info] [Better Chat] [Player] Tsuero-Sama: ff
+18:14 [Info] [Better Chat] [Player] Tsuero-Sama: fff

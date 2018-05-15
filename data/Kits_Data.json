@@ -1,0 +1,62 @@
+{
+  "76561198022298131": {
+    "supply": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "bienvenue": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198386285012": {
+    "supply": {
+      "max": 0,
+      "cooldown": 1526263548.794919
+    },
+    "bienvenue": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198195784195": {
+    "bienvenue": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "supply": {
+      "max": 0,
+      "cooldown": 1526408874.2688789
+    }
+  },
+  "76561198019753583": {
+    "bienvenue": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "supply": {
+      "max": 0,
+      "cooldown": 1526418899.9431951
+    }
+  },
+  "76561198271944168": {
+    "bienvenue": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "supply": {
+      "max": 0,
+      "cooldown": 1526552187.883723
+    }
+  },
+  "76561198834322050": {
+    "bienvenue": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "supply": {
+      "max": 0,
+      "cooldown": 1526648807.0174191
+    }
+  }
+}

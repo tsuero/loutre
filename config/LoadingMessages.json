@@ -1,0 +1,40 @@
+{
+  "Text Display Frequency (Seconds)": 0.2,
+  "Enable Messages Cyclicity": true,
+  "Use Random Cyclicity (Instead of sequential)": false,
+  "Cycle Messages Every ~N Seconds": 8.0,
+  "Messages": [
+    {
+      "Top Status": "<color=lightblue>Merci a vous !!</color>",
+      "Bottom Status": "<color=yellow>Nous sommes heureux de vous compter parmi nous.</color>"
+    },
+    {
+      "Top Status": "<color=lightblue>Serveur en Construction!</color>",
+      "Bottom Status": "<color=yellow>Helas vous n'aurez pas encore acces a toute la richesse de la Loutre.</color>"
+    },
+    {
+      "Top Status": "<color=lightblue>Dans un proche avenir !!</color>",
+      "Bottom Status": "<color=yellow>Se dressera a l'horizon la ville de -Loutria- .</color>"
+    },
+    {
+      "Top Status": "<color=lightblue>Dans un proche avenir !!</color>",
+      "Bottom Status": "<color=yellow>Town - Quetes - PnJs - Events - Economy - Et bien d'autres encore...</color>"
+    }
+  ],
+  "Enable Queue Messages": false,
+  "Queue Messages": [
+    {
+      "Top Status": "<color=yellow>You're in queue...</color>",
+      "Bottom Status": "<color=lightblue>{AHEAD} players ahead of you.</color>"
+    },
+    {
+      "Top Status": "<color=lightblue>You're in queue...</color>",
+      "Bottom Status": "<color=yellow>{BEHIND} players behind you.</color>"
+    }
+  ],
+  "QueuePosition": null,
+  "Last Message (When entering game)": {
+    "Top Status": "<color=green>Fini d'attendre!!</color>",
+    "Bottom Status": "<color=yellow>Maintenant a vous de jouer...</color>"
+  }
+}

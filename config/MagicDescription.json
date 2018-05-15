@@ -1,0 +1,10 @@
+{
+  "Server description": "Bien le bonjour,\\n\\n Actuellement le serveur est en cours de creation mais bientot vous trouverez: \\n\\n village - pnj - events - quetes - et bien d'autre encore \\n\\n Pour plus d'infos n'hesitez pas a venir nous voir ingame \\n\\n a tres bientot.\\n\\n{magic.version} for Rust {magic.version protocol}\\n\\n{server.pve}",
+  "Update interval (seconds)": 300,
+  "Show loaded plugins (true/false)": true,
+  "Hidden plugins (filename or title)": [
+    "PrivateStuff",
+    "OtherName",
+    "Epic Stuff"
+  ]
+}

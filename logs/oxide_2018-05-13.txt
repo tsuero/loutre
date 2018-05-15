@@ -1,0 +1,764 @@
+00:35 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+00:35 [Info] [FancyDrop] Next timed Airdrop in 33 minutes
+01:08 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+01:08 [Info] [FancyDrop] Next timed Airdrop in 33 minutes
+01:41 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+01:41 [Info] [FancyDrop] Next timed Airdrop in 48 minutes
+02:29 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+02:29 [Info] [FancyDrop] Next timed Airdrop in 32 minutes
+03:01 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+03:01 [Info] [FancyDrop] Next timed Airdrop in 36 minutes
+03:37 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+03:37 [Info] [FancyDrop] Next timed Airdrop in 49 minutes
+04:26 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+04:26 [Info] [FancyDrop] Next timed Airdrop in 46 minutes
+05:12 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+05:12 [Info] [FancyDrop] Next timed Airdrop in 44 minutes
+05:56 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+05:56 [Info] [FancyDrop] Next timed Airdrop in 34 minutes
+06:30 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+06:30 [Info] [FancyDrop] Next timed Airdrop in 34 minutes
+07:04 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+07:04 [Info] [FancyDrop] Next timed Airdrop in 45 minutes
+07:49 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+07:49 [Info] [FancyDrop] Next timed Airdrop in 33 minutes
+08:08 [Info] [Death Notes] A Scientist got rid of Ulos.
+08:22 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+08:22 [Info] [FancyDrop] Next timed Airdrop in 41 minutes
+09:03 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+09:03 [Info] [FancyDrop] Next timed Airdrop in 35 minutes
+09:38 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+09:38 [Info] [FancyDrop] Next timed Airdrop in 35 minutes
+10:06 [Info] FauxClip was compiled successfully in 1906ms
+10:06 [Info] [Magic Description] Server description updated!
+10:06 [Info] Loaded plugin FauxClip v1.3.8 by Colon Blow
+10:07 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'fauxclip.allowed'
+10:07 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'fauxclip.norestriction'
+10:08 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'fauxclip.canuseturbo'
+10:13 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+10:13 [Info] [FancyDrop] Next timed Airdrop in 46 minutes
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Unloaded plugin Handy Man v1.3.1 by nivex
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Loaded plugin Handy Man v1.3.1 by nivex
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Unloaded plugin Inventory Cleaner v1.1.4 by PaiN
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Loaded plugin Inventory Cleaner v1.1.4 by PaiN
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Unloaded plugin Building Owners v3.0.2 by Reneb
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Loaded plugin Building Owners v3.0.2 by Reneb
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Unloaded plugin Build v1.2.8 by Reneb & NoGrod
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Loaded plugin Build v1.2.8 by Reneb & NoGrod
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Unloaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Loaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Unloaded plugin Item Skin Randomizer v1.3.3 by Mughisi
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Loaded plugin Item Skin Randomizer v1.3.3 by Mughisi
+10:30 [Warning] Calling 'Unload' on 'FancyDrop v2.7.8' took 196ms
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Unloaded plugin FancyDrop v2.7.8 by FuJiCuRa
+10:30 [Info] [FancyDrop] Map Highest Point: (500m) | Plane flying height: (~500m)
+10:30 [Info] [FancyDrop] Timed Airdrop activated with '2' players between '30' and '50' minutes
+10:30 [Info] [FancyDrop] Next timed Airdrop in 34 minutes
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Loaded plugin FancyDrop v2.7.8 by FuJiCuRa
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Unloaded plugin Copy Paste v3.6.4 by Reneb
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Loaded plugin Copy Paste v3.6.4 by Reneb
+10:30 [Info] [FancyDrop] '4' custom loot tables loaded with overall '113' items
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Unloaded plugin RemoverTool v4.2.9 by Reneb/Fuji
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Loaded plugin RemoverTool v4.2.9 by Reneb/Fuji
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Unloaded plugin SaveMyMap v1.3.3 by Fujikura
+10:30 [Info] [SaveMyMap] Saveinverval set to: 1200 sec. | Custom save after every '1' saves
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Loaded plugin SaveMyMap v1.3.3 by Fujikura
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Unloaded plugin FauxClip v1.3.8 by Colon Blow
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Loaded plugin FauxClip v1.3.8 by Colon Blow
+10:30 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Unloaded plugin Explosion Tracker v1.0.2 by Ryan
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Loaded plugin Explosion Tracker v1.0.2 by Ryan
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Unloaded plugin Building Grades v0.3.12 by bawNg / Nogrod
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Loaded plugin Building Grades v0.3.12 by bawNg / Nogrod
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Unloaded plugin Building Grades v0.3.12 by bawNg / Nogrod
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Loaded plugin Building Grades v0.3.12 by bawNg / Nogrod
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Unloaded plugin Loading Messages v1.0.4 by VVoid
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Loaded plugin Loading Messages v1.0.4 by VVoid
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Unloaded plugin BGrade v1.0.48 by Ryan
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Loaded plugin BGrade v1.0.48 by Ryan
+10:30 [Info] [Item Skin Randomizer] Loaded 1260 approved workshop skins.
+10:30 [Info] Kits was compiled successfully in 2125ms
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Unloaded plugin Kits v3.2.91 by Reneb
+10:30 [Info] MagicDescription was compiled successfully in 2297ms
+10:30 [Info] Unloaded plugin Magic Description v1.3.1 by Wulf/lukespragg
+10:30 [Info] Give was compiled successfully in 2422ms
+10:30 [Info] Unloaded plugin Give v3.0.0 by Wulf/lukespragg
+10:30 [Info] DeathNotes was compiled successfully in 2719ms
+10:30 [Info] Unloaded plugin Death Notes v5.2.20 by LaserHydra
+10:30 [Info] ImageLibrary, CraftingController and Clans were compiled successfully in 2172ms
+10:30 [Info] Unloaded plugin ImageLibrary v2.0.30 by Absolut & K1lly0u
+10:30 [Info] Unloaded plugin Crafting Controller v2.4.8 by Mughisi
+10:30 [Info] Unloaded plugin Rust:IO Clans v1.7.3 by playrust.io / dcode
+10:30 [Info] BetterChat was compiled successfully in 2344ms
+10:30 [Info] Unloaded plugin Better Chat v5.0.19 by LaserHydra
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Loaded plugin Magic Description v1.3.1 by Wulf/lukespragg
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Loaded plugin Give v3.0.0 by Wulf/lukespragg
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Loaded plugin Kits v3.2.91 by Reneb
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Loaded plugin Death Notes v5.2.20 by LaserHydra
+10:30 [Warning] Calling 'OnServerInitialized' on 'ImageLibrary v2.0.30' took 999ms [GARBAGE COLLECT]
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Loaded plugin ImageLibrary v2.0.30 by Absolut & K1lly0u
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Loaded plugin Crafting Controller v2.4.8 by Mughisi
+10:30 [Info] [Magic Description] Server description updated!
+10:30 [Info] Loaded plugin Rust:IO Clans v1.7.3 by playrust.io / dcode
+10:32 [Info] Loading Oxide Core v2.0.3814...
+10:32 [Error] Failed to load protobuf data from oxide.users.data (ProtoException: Invalid wire-type; this usually means you have over-written a file without truncating or setting the length; see http://stackoverflow.com/q/2152978/23354)
+at ProtoBuf.ProtoReader.ReadString () <0x00100>
+at (wrapper dynamic-method) Oxide.Core.Libraries.UserData.proto_8 (object,ProtoBuf.ProtoReader) <0x00119>
+at ProtoBuf.Serializers.CompiledSerializer.ProtoBuf.Serializers.IProtoSerializer.Read (object,ProtoBuf.ProtoReader) <0x0002b>
+at ProtoBuf.Meta.RuntimeTypeModel.Deserialize (int,object,ProtoBuf.ProtoReader) <0x00123>
+at ProtoBuf.ProtoReader.ReadTypedObject (object,int,ProtoBuf.ProtoReader,System.Type) <0x00060>
+at ProtoBuf.ProtoReader.ReadObject (object,int,ProtoBuf.ProtoReader) <0x0002a>
+at (wrapper dynamic-method) System.Collections.Generic.KeyValuePair`2<string, Oxide.Core.Libraries.UserData>.proto_6 (object,ProtoBuf.ProtoReader) <0x000f5>
+at ProtoBuf.Serializers.CompiledSerializer.ProtoBuf.Serializers.IProtoSerializer.Read (object,ProtoBuf.ProtoReader) <0x0002b>
+at ProtoBuf.Meta.RuntimeTypeModel.Deserialize (int,object,ProtoBuf.ProtoReader) <0x00109>
+at ProtoBuf.Meta.TypeModel.TryDeserializeAuxiliaryType (ProtoBuf.ProtoReader,ProtoBuf.DataFormat,int,System.Type,object&,bool,bool,bool,bool) <0x0039b>
+at ProtoBuf.Meta.TypeModel.TryDeserializeList (ProtoBuf.Meta.TypeModel,ProtoBuf.ProtoReader,ProtoBuf.DataFormat,int,System.Type,System.Type,object&) <0x003a7>
+at ProtoBuf.Meta.TypeModel.TryDeserializeAuxiliaryType (ProtoBuf.ProtoReader,ProtoBuf.DataFormat,int,System.Type,object&,bool,bool,bool,bool) <0x00197>
+at ProtoBuf.Meta.TypeModel.DeserializeCore (ProtoBuf.ProtoReader,System.Type,object,bool) <0x000bb>
+at ProtoBuf.Meta.TypeModel.Deserialize (System.IO.Stream,object,System.Type,ProtoBuf.SerializationContext) <0x000b0>
+at ProtoBuf.Meta.TypeModel.Deserialize (System.IO.Stream,object,System.Type) <0x00035>
+at ProtoBuf.Serializer.Deserialize<System.Collections.Generic.Dictionary`2<string, Oxide.Core.Libraries.UserData>> (System.IO.Stream) <0x00051>
+at Oxide.Core.ProtoStorage.Load<System.Collections.Generic.Dictionary`2<string, Oxide.Core.Libraries.UserData>> (string[]) <0x000b0>
+
+10:32 [Info] Loading extensions...
+10:32 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+10:32 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+10:32 [Info] Loaded extension CSharp v2.0.3846 by Oxide and Contributors
+10:32 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+10:32 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+10:32 [Info] Loaded extension Rust v2.0.3922 by Oxide and Contributors
+10:32 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+10:32 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+10:32 [Info] Using Covalence provider for game 'Rust'
+10:32 [Info] Loading plugins...
+10:32 [Info] Loaded plugin Rust v2.0.3922 by Oxide and Contributors
+10:32 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+10:32 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+10:32 [Info] Added '// Reference: System.Drawing' in plugin 'CopyPaste'
+10:32 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+10:32 [Info] BGrade, BetterChat, Build, BuildingGrades, BuildingOwners, Clans, CopyPaste, CraftingController, DeathNotes, ExplosionTracker, FancyDrop, FauxClip, Give, HandyMan, ImageLibrary, InventoryCleaner, ItemSkinRandomizer, Kits, LoadingMessages, MagicDescription, RemoverTool, SaveMyMap and ZLevelsRemastered were compiled successfully in 2448ms
+10:32 [Info] Loaded plugin BGrade v1.0.48 by Ryan
+10:32 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+10:32 [Info] Loaded plugin Build v1.2.8 by Reneb & NoGrod
+10:32 [Info] Loaded plugin Building Grades v0.3.12 by bawNg / Nogrod
+10:32 [Info] Loaded plugin Building Owners v3.0.2 by Reneb
+10:32 [Info] Loaded plugin Rust:IO Clans v1.7.3 by playrust.io / dcode
+10:32 [Info] Loaded plugin Copy Paste v3.6.4 by Reneb
+10:32 [Info] Loaded plugin Crafting Controller v2.4.8 by Mughisi
+10:32 [Info] Loaded plugin Death Notes v5.2.20 by LaserHydra
+10:32 [Info] Loaded plugin Explosion Tracker v1.0.2 by Ryan
+10:32 [Info] Loaded plugin FancyDrop v2.7.8 by FuJiCuRa
+10:32 [Info] Loaded plugin FauxClip v1.3.8 by Colon Blow
+10:32 [Info] Loaded plugin Give v3.0.0 by Wulf/lukespragg
+10:32 [Info] Loaded plugin Handy Man v1.3.1 by nivex
+10:32 [Info] Loaded plugin ImageLibrary v2.0.30 by Absolut & K1lly0u
+10:32 [Info] Loaded plugin Inventory Cleaner v1.1.4 by PaiN
+10:32 [Info] Loaded plugin Item Skin Randomizer v1.3.3 by Mughisi
+10:32 [Info] Loaded plugin Kits v3.2.91 by Reneb
+10:32 [Info] Loaded plugin Loading Messages v1.0.4 by VVoid
+10:32 [Info] Loaded plugin Magic Description v1.3.1 by Wulf/lukespragg
+10:32 [Info] Loaded plugin RemoverTool v4.2.9 by Reneb/Fuji
+10:32 [Info] Loaded plugin SaveMyMap v1.3.3 by Fujikura
+10:32 [Info] Loaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+10:34 [Warning] BuildingOwners: Wipe detected. Saving last buildingowners data in BuildingOwners_backup
+10:34 [Info] [SaveMyMap] Loadfile override aborted, map change detected.
+10:34 [Info] Updating Rust:IO ...
+10:34 [Info] Rust:IO: Update complete
+10:34 [Warning] Calling 'OnServerInitialized' on 'Build v1.2.8' took 579ms
+10:34 [Info] [FancyDrop] Map Highest Point: (500m) | Plane flying height: (~500m)
+10:34 [Info] [FancyDrop] Timed Airdrop activated with '2' players between '30' and '50' minutes
+10:34 [Info] [FancyDrop] Builtin Airdrop removed
+10:34 [Info] [FancyDrop] Next timed Airdrop in 47 minutes
+10:34 [Warning] [ImageLibrary] The CommunityEntity instance ID has changed! Due to the way CUI works in Rust all previously stored images must be removed and re-stored using the new ID as reference so clients can find the images. These images will be added to a new load order. Interupting this process will result in being required to re-download these images from the web
+10:34 [Warning] [ImageLibrary] 13 images queued for restoration, 0 images failed
+10:34 [Warning] Calling 'OnServerInitialized' on 'ImageLibrary v2.0.30' took 627ms [GARBAGE COLLECT]
+10:34 [Info] [Magic Description] Server description updated!
+10:34 [Info] [SaveMyMap] Saveinverval set to: 1200 sec. | Custom save after every '1' saves
+10:34 [Info] [FancyDrop] '4' custom loot tables loaded with overall '113' items
+10:34 [Info] [ImageLibrary] Starting order Image restoration from previous database
+10:34 [Info] Installing Rust:IO ...
+10:34 [Info] Rust:IO> Setting up Rust:IO 2.3.6670.37696 ...
+10:34 [Info] Rust:IO> Creating directories ...
+10:34 [Info] Rust:IO> Applying config ...
+10:34 [Info] Rust:IO> Initializing database ...
+10:34 [Info] Rust:IO> Map wipe detected, resetting map specific data
+10:34 [Info] Rust:IO> Generating map image (this may take a while) ...
+10:35 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  64904.079ms
+Postprocess  :  1081.883ms
+  Shadows    :   145.311ms
+  FXAA       :   911.547ms
+Encoding     :    45.336ms
+Other        :    21.619ms
+--------------------------
+Total        :  66052.918ms
+10:35 [Info] Rust:IO> Starting HTTP server on 185.157.247.153:28015 ...
+10:35 [Info] Rust:IO> Installed.
+10:35 [Info] Rust:IO> Now ticking
+10:35 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 66409ms [GARBAGE COLLECT]
+10:35 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 0ms [GARBAGE COLLECT]
+10:35 [Info] [Item Skin Randomizer] Loaded 1260 approved workshop skins.
+10:35 [Info] Rust:IO> External IP address obtained from lookup: 185.157.247.153
+10:40 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'fauxclip.canuseturbo'
+10:41 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'fauxclip.norestriction'
+10:41 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'fauxclip.allowed'
+10:53 [Info] [FancyDrop] Tsuero-Sama (76561198022298131) looted his Drop at: (868, 0, 964)
+11:09 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'inventorycleaner.use'
+11:12 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'bgrade.all'
+11:12 [Info] Permission 'bgrade.nore' doesn't exist
+11:12 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'bgrade.nores'
+11:15 [Info] BGrade was compiled successfully in 3203ms
+11:15 [Info] [Magic Description] Server description updated!
+11:15 [Info] Unloaded plugin BGrade v1.0.48 by Ryan
+11:15 [Info] [Magic Description] Server description updated!
+11:15 [Info] Loaded plugin BGrade v1.0.48 by Ryan
+11:15 [Info] [Magic Description] Server description updated!
+11:15 [Info] Unloaded plugin BGrade v1.0.48 by Ryan
+11:15 [Info] [Magic Description] Server description updated!
+11:15 [Info] Loaded plugin BGrade v1.0.48 by Ryan
+11:21 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+11:21 [Info] [FancyDrop] Next timed Airdrop in 32 minutes
+11:28 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'give.self'
+11:29 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'give.all'
+11:29 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'give.arm'
+11:29 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'give.to'
+11:29 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'give.kit'
+11:29 [Warning] Calling 'OnItemCraft' on 'ItemSkinRandomizer v1.3.3' took 215ms
+11:32 [Warning] Calling 'OnItemCraft' on 'ItemSkinRandomizer v1.3.3' took 208ms
+11:39 [Info] EnhancedHammer was compiled successfully in 2235ms
+11:39 [Info] [Magic Description] Server description updated!
+11:39 [Info] Loaded plugin Enhanced Hammer v1.3.4 by Fuji/Visa
+11:40 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'enhancedhammer.use'
+11:40 [Info] [Magic Description] Server description updated!
+11:40 [Info] Unloaded plugin Enhanced Hammer v1.3.4 by Fuji/Visa
+11:40 [Info] [Magic Description] Server description updated!
+11:40 [Info] Loaded plugin Enhanced Hammer v1.3.4 by Fuji/Visa
+11:44 [Info] ZoneManager was compiled successfully in 2542ms
+11:44 [Info] [ZoneManager] Loaded 0 Zone definitions
+11:44 [Info] [Magic Description] Server description updated!
+11:44 [Info] Loaded plugin ZoneManager v2.5.8 by Reneb / Nogrod
+11:45 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'zonemanager.zone'
+11:46 [Info] [Better Chat] [Admin]  Tsuero-Sama: zonemanager.ignoreflag
+11:46 [Info] Permission 'zonemanager.ignoreflag' doesn't exist
+11:53 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+11:53 [Info] [FancyDrop] Next timed Airdrop in 34 minutes
+12:19 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'buildinggrades.cangrade'
+12:19 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'buildinggrades.nocost'
+12:27 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+12:27 [Info] [FancyDrop] Next timed Airdrop in 35 minutes
+12:46 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1525ms
+12:46 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1325ms
+12:47 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1281ms
+12:47 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1470ms
+12:47 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1274ms
+12:47 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1434ms
+12:48 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1249ms
+12:48 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1231ms
+12:48 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1517ms
+12:48 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1339ms
+12:48 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1428ms
+12:48 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1398ms
+12:49 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1626ms
+12:49 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1461ms
+12:49 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1456ms
+12:49 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1467ms
+12:49 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1508ms
+12:49 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1397ms
+12:50 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1188ms
+12:50 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1185ms
+12:50 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1130ms
+12:50 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1209ms
+12:50 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1180ms
+12:50 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1106ms
+12:51 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1206ms
+12:51 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1205ms
+12:51 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1248ms
+12:51 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1376ms
+12:51 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1402ms
+12:52 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1424ms
+12:52 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1574ms
+12:52 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1408ms
+12:52 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1550ms
+12:53 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1488ms
+12:53 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1417ms
+12:53 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1469ms
+12:53 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1419ms
+12:53 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1406ms
+12:53 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1728ms
+12:54 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1587ms
+12:54 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1621ms
+12:54 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1630ms
+12:54 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1613ms
+12:54 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1528ms
+12:54 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1393ms
+12:55 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1740ms
+12:55 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2130ms
+12:55 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1650ms
+12:55 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1520ms
+12:55 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1557ms
+12:55 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1799ms
+12:56 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1813ms
+12:56 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1636ms
+12:56 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1777ms
+12:56 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1501ms
+12:56 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1465ms
+12:56 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1683ms
+12:57 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1596ms
+12:57 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1634ms
+12:57 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1644ms
+12:57 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1118ms
+12:58 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1238ms
+12:58 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1379ms
+12:58 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1688ms
+12:58 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1523ms
+12:58 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1492ms
+12:58 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1536ms
+12:59 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1394ms
+12:59 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1426ms
+12:59 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1238ms
+13:02 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+13:02 [Info] [FancyDrop] Next timed Airdrop in 34 minutes
+13:27 [Warning] Calling 'cmdChatCopy' on 'CopyPaste v3.6.4' took 189ms
+13:27 [Warning] Calling 'cmdChatPaste' on 'CopyPaste v3.6.4' took 345ms
+13:28 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1028ms
+13:28 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1540ms
+13:28 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1631ms
+13:28 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1432ms
+13:29 [Warning] Calling 'cmdChatCopy' on 'CopyPaste v3.6.4' took 181ms
+13:30 [Warning] Calling 'cmdChatPaste' on 'CopyPaste v3.6.4' took 327ms
+13:31 [Warning] Calling 'cmdChatPaste' on 'CopyPaste v3.6.4' took 617ms
+13:31 [Warning] Calling 'cmdChatPaste' on 'CopyPaste v3.6.4' took 347ms
+13:31 [Warning] Calling 'cmdChatPaste' on 'CopyPaste v3.6.4' took 322ms
+13:32 [Warning] Calling 'cmdChatPaste' on 'CopyPaste v3.6.4' took 416ms
+13:32 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1041ms
+13:33 [Warning] Calling 'cmdChatPaste' on 'CopyPaste v3.6.4' took 355ms
+13:34 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1399ms
+13:34 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1220ms
+13:34 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1343ms
+13:36 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+13:36 [Info] [FancyDrop] Next timed Airdrop in 45 minutes
+13:39 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1274ms
+13:40 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1427ms
+13:40 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1333ms
+13:40 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1367ms
+13:40 [Warning] Calling 'cmdChatCopy' on 'CopyPaste v3.6.4' took 174ms
+13:40 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1106ms
+13:40 [Warning] Calling 'cmdChatPaste' on 'CopyPaste v3.6.4' took 311ms
+13:41 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1493ms
+13:41 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1743ms
+13:41 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1397ms
+13:48 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1074ms
+13:48 [Warning] Calling 'UpCommand' on 'BuildingGrades v0.3.12' took 320ms [GARBAGE COLLECT]
+13:48 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1766ms
+13:48 [Warning] Calling 'UpCommand' on 'BuildingGrades v0.3.12' took 140ms
+13:48 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1443ms
+13:48 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1227ms
+13:49 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1831ms
+13:49 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1460ms
+13:49 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1869ms
+13:49 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1883ms
+13:49 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1854ms
+13:49 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1784ms
+13:50 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1693ms
+13:50 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1655ms
+13:50 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1975ms
+13:50 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1914ms
+13:50 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1748ms
+13:50 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1275ms
+13:51 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1933ms
+13:51 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2094ms
+13:51 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2439ms
+13:53 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1023ms
+13:53 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1157ms
+13:53 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1228ms
+13:54 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1182ms
+13:54 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1824ms
+13:54 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2353ms
+13:55 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1520ms
+13:55 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1897ms
+13:55 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1745ms
+13:55 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1413ms
+13:56 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1082ms
+13:57 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1542ms
+13:58 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1030ms
+13:59 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1044ms
+13:59 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1308ms
+13:59 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1142ms
+13:59 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1245ms
+13:59 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1506ms
+13:59 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1320ms
+14:00 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1355ms
+14:00 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1112ms
+14:00 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1013ms
+14:00 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1073ms
+14:01 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1181ms
+14:01 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1444ms
+14:01 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1156ms
+14:01 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1080ms
+14:01 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1224ms
+14:02 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1956ms
+14:02 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2180ms
+14:02 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1108ms
+14:02 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2243ms
+14:02 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2166ms
+14:03 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1442ms
+14:03 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1409ms
+14:03 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1581ms
+14:03 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2041ms
+14:03 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1243ms
+14:03 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1373ms
+14:04 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1910ms
+14:04 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1522ms
+14:04 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1959ms
+14:04 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1856ms
+14:04 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2261ms
+14:05 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1933ms
+14:05 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1483ms
+14:05 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1857ms
+14:05 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1004ms
+14:05 [Warning] Calling 'UpCommand' on 'BuildingGrades v0.3.12' took 103ms
+14:05 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1478ms
+14:05 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1830ms
+14:06 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1091ms
+14:06 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1115ms
+14:06 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1068ms
+14:06 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1090ms
+14:06 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1188ms
+14:07 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1487ms
+14:07 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1322ms
+14:07 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1122ms
+14:07 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1160ms
+14:07 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1308ms
+14:08 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1272ms
+14:08 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1087ms
+14:08 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1292ms
+14:08 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1252ms
+14:08 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1292ms
+14:08 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1279ms
+14:09 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1321ms
+14:09 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1254ms
+14:09 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1112ms
+14:09 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1382ms
+14:17 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1604ms
+14:17 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1398ms
+14:17 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1467ms
+14:17 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1444ms
+14:18 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1150ms
+14:18 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1174ms
+14:18 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1343ms
+14:18 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1321ms
+14:21 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+14:21 [Info] [FancyDrop] Next timed Airdrop in 47 minutes
+14:23 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1249ms
+14:35 [Warning] Calling 'OnItemCraft' on 'ItemSkinRandomizer v1.3.3' took 270ms
+14:40 [Info] [Death Notes] A Bear followed Elfy until it finally caught him.
+14:41 [Info] [Death Notes] A Boar followed Elfy until it finally caught him.
+14:43 [Info] [Death Notes] Elfy had enough of life.
+14:43 [Info] [Death Notes] Elfy had enough of life.
+14:43 [Info] [Death Notes] Elfy had enough of life.
+14:45 [Warning] Calling 'OnItemCraft' on 'ItemSkinRandomizer v1.3.3' took 234ms
+14:46 [Warning] Calling 'OnItemCraft' on 'ItemSkinRandomizer v1.3.3' took 217ms
+14:47 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1273ms
+14:47 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1461ms
+14:47 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1420ms
+14:47 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1079ms
+14:48 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1350ms
+14:48 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1412ms
+14:48 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1211ms
+14:48 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1108ms
+14:49 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1203ms
+14:49 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1085ms
+14:50 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1144ms
+14:50 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1051ms
+14:50 [Info] [Death Notes] A Wolf followed Elfy until it finally caught him.
+14:51 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1019ms
+14:51 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1110ms
+14:51 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1117ms
+14:54 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1024ms
+14:54 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1015ms
+14:55 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1134ms
+14:55 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1254ms
+14:55 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1250ms
+14:55 [Info] [Death Notes] Elfy had enough of life.
+14:55 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1434ms
+14:55 [Info] [Death Notes] Elfy had enough of life.
+14:56 [Info] [Death Notes] Elfy had enough of life.
+14:56 [Info] [Death Notes] Elfy had enough of life.
+14:57 [Info] [Death Notes] Elfy had enough of life.
+14:57 [Info] [Death Notes] Elfy had enough of life.
+14:57 [Info] [Death Notes] Elfy had enough of life.
+14:57 [Info] [Death Notes] Elfy had enough of life.
+14:58 [Info] [Death Notes] Elfy had enough of life.
+14:58 [Info] [Death Notes] Elfy had enough of life.
+14:58 [Info] [Death Notes] Elfy had enough of life.
+14:58 [Info] [Death Notes] Elfy had enough of life.
+14:58 [Info] [Death Notes] Elfy had enough of life.
+14:59 [Info] [Death Notes] Elfy had enough of life.
+14:59 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1149ms
+15:00 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1205ms
+15:00 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1150ms
+15:00 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1365ms
+15:01 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1161ms
+15:01 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1355ms
+15:01 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1059ms
+15:01 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1318ms
+15:02 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1191ms
+15:02 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1120ms
+15:03 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1172ms
+15:03 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1224ms
+15:04 [Info] NTeleportation was compiled successfully in 2617ms
+15:04 [Info] [Magic Description] Server description updated!
+15:04 [Info] Loaded plugin NTeleportation v1.0.26 by Nogrod
+15:05 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1149ms
+15:06 [Info] [Better Chat] [Admin]  Tsuero-Sama: noclip
+15:06 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1290ms
+15:07 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1042ms
+15:08 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1363ms
+15:08 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1516ms
+15:08 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-288, 31, 685)
+15:08 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+15:08 [Info] [FancyDrop] Next timed Airdrop in 32 minutes
+15:09 [Warning] Calling 'OnItemCraft' on 'ItemSkinRandomizer v1.3.3' took 205ms
+15:13 [Warning] Calling 'OnItemCraft' on 'ItemSkinRandomizer v1.3.3' took 203ms
+15:15 [Info] [Better Chat] [Admin]  Tsuero-Sama: remove
+15:16 [Warning] Calling 'OnItemCraft' on 'ItemSkinRandomizer v1.3.3' took 200ms
+15:19 [Info] [Death Notes] Elfy had enough of life.
+15:19 [Info] [Death Notes] Elfy had enough of life.
+15:20 [Warning] Calling 'OnItemCraft' on 'ItemSkinRandomizer v1.3.3' took 199ms
+15:21 [Info] [Death Notes] Elfy had enough of life.
+15:26 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1097ms
+15:26 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1348ms
+15:26 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1358ms
+15:26 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1705ms
+15:27 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1612ms
+15:29 [Info] [Death Notes] A Bear followed Elfy until it finally caught him.
+15:39 [Warning] Calling 'OnItemCraft' on 'ItemSkinRandomizer v1.3.3' took 214ms
+15:40 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (714, 44, -91)
+15:40 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+15:40 [Info] [FancyDrop] Next timed Airdrop in 40 minutes
+15:49 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1399ms
+15:49 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1476ms
+15:49 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1935ms
+15:49 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1895ms
+15:49 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1038ms
+15:50 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1890ms
+15:50 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1411ms
+15:50 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1935ms
+15:50 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2105ms
+15:50 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1545ms
+15:50 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1325ms
+15:51 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1835ms
+15:51 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1896ms
+15:52 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1616ms
+15:52 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1784ms
+15:52 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1392ms
+15:52 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1458ms
+15:53 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1103ms
+15:53 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1247ms
+15:53 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1686ms
+15:53 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1517ms
+16:07 [Warning] Calling 'OnDispenserGather' on 'ZLevelsRemastered v2.9.4' took 188ms [GARBAGE COLLECT]
+16:17 [Warning] Calling 'cmdChatCopy' on 'CopyPaste v3.6.4' took 332ms
+16:17 [Warning] Calling 'cmdChatPaste' on 'CopyPaste v3.6.4' took 572ms
+16:17 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1509ms
+16:18 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1548ms
+16:18 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1329ms
+16:19 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1234ms
+16:19 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1206ms
+16:20 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-630, 41, 732)
+16:20 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+16:20 [Info] [FancyDrop] Next timed Airdrop in 30 minutes
+16:20 [Info] [Death Notes] Elfy had enough of life.
+16:26 [Warning] Calling 'OnItemCraft' on 'ItemSkinRandomizer v1.3.3' took 210ms
+16:26 [Warning] Calling 'OnItemCraft' on 'ItemSkinRandomizer v1.3.3' took 205ms
+16:27 [Warning] Calling 'OnItemCraft' on 'ItemSkinRandomizer v1.3.3' took 202ms
+16:34 [Info] [Death Notes] Elfy had enough of life.
+16:40 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1393ms
+16:41 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1061ms
+16:44 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1183ms
+16:45 [Info] [Death Notes] Elfy had enough of life.
+16:47 [Warning] Calling 'OnItemCraft' on 'ItemSkinRandomizer v1.3.3' took 210ms
+16:49 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1063ms
+16:50 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1221ms
+16:50 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1955ms
+16:50 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1435ms
+16:50 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (1024, 37, -1127)
+16:50 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+16:50 [Info] [FancyDrop] Next timed Airdrop in 37 minutes
+16:50 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2138ms
+16:50 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2135ms
+16:51 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2189ms
+16:51 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1850ms
+16:51 [Warning] Calling 'cmdChatCopy' on 'CopyPaste v3.6.4' took 480ms
+16:53 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1861ms
+16:53 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2165ms
+16:54 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2562ms
+16:54 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2712ms
+16:54 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2213ms
+16:54 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2210ms
+16:54 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2147ms
+16:54 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2162ms
+16:55 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2194ms
+16:55 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2289ms
+16:55 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took 204ms [GARBAGE COLLECT]
+16:55 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2572ms
+16:55 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1922ms
+16:56 [Warning] Calling 'OnItemCraft' on 'ItemSkinRandomizer v1.3.3' took 209ms
+16:58 [Warning] Calling 'OnItemCraft' on 'ItemSkinRandomizer v1.3.3' took 208ms
+16:59 [Warning] Calling 'OnItemCraft' on 'ItemSkinRandomizer v1.3.3' took 211ms
+17:01 [Info] ChestStacks was compiled successfully in 2107ms
+17:01 [Info] [Magic Description] Server description updated!
+17:01 [Info] Loaded plugin ChestStacks v1.2.1 by Jake_Rich
+17:06 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1360ms
+17:06 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1983ms
+17:06 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1518ms
+17:10 [Warning] Calling 'OnItemCraft' on 'ItemSkinRandomizer v1.3.3' took 203ms
+17:11 [Warning] Calling 'OnItemCraft' on 'ItemSkinRandomizer v1.3.3' took 214ms
+17:15 [Info] [Better Chat] [Admin]  Tsuero-Sama: bgrade 3
+17:22 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2019ms
+17:23 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1080ms
+17:23 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1696ms
+17:23 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1183ms
+17:23 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1061ms
+17:26 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1063ms
+17:27 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (1174, 18, -846)
+17:27 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+17:27 [Info] [FancyDrop] Next timed Airdrop in 39 minutes
+17:27 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1745ms
+17:28 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1542ms
+17:28 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1786ms
+17:28 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1136ms
+17:29 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1280ms
+17:29 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2000ms
+17:29 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1938ms
+17:29 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2582ms
+17:30 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2799ms
+17:30 [Info] [Better Chat] [Admin]  Tsuero-Sama: noclip
+17:30 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2039ms
+17:31 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2725ms
+17:31 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2295ms
+17:31 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2405ms
+17:32 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2411ms
+17:32 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2229ms
+17:32 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2013ms
+17:32 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1205ms
+17:40 [Warning] Calling 'OnItemCraft' on 'ItemSkinRandomizer v1.3.3' took 197ms
+17:42 [Warning] Calling 'OnItemCraft' on 'ItemSkinRandomizer v1.3.3' took 210ms
+17:45 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1250ms
+17:47 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1458ms
+17:50 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 999ms
+17:50 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1426ms
+17:51 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1787ms
+17:51 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2350ms
+17:51 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2245ms
+17:54 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1825ms
+17:54 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1782ms
+17:55 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2135ms
+17:55 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2381ms
+17:55 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1610ms
+17:56 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2585ms
+17:56 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2436ms
+17:56 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1799ms
+17:56 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1919ms
+17:56 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2047ms
+17:57 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2517ms
+17:57 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 3115ms
+17:57 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 3126ms
+17:57 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2721ms
+17:57 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2512ms
+17:57 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2418ms
+17:58 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1889ms
+17:58 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1853ms
+17:58 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1894ms
+17:58 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2205ms
+17:58 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1812ms
+17:58 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2045ms
+17:59 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1920ms
+17:59 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1961ms
+17:59 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1918ms
+17:59 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1864ms
+17:59 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1866ms
+17:59 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1862ms
+18:00 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2068ms
+18:00 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1902ms
+18:00 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1861ms
+18:00 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1834ms
+18:00 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2618ms
+18:00 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2553ms
+18:01 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2270ms
+18:01 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2551ms
+18:01 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1805ms
+18:01 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1721ms
+18:01 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1421ms
+18:02 [Warning] Calling 'DownCommand' on 'BuildingGrades v0.3.12' took 273ms
+18:02 [Warning] Calling 'DownCommand' on 'BuildingGrades v0.3.12' took 212ms
+18:02 [Warning] Calling 'DownCommand' on 'BuildingGrades v0.3.12' took 245ms
+18:02 [Warning] Calling 'UpCommand' on 'BuildingGrades v0.3.12' took 330ms
+18:03 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1984ms
+18:03 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2209ms
+18:03 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1336ms
+18:03 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1326ms
+18:03 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1784ms
+18:03 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2321ms
+18:04 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1094ms
+18:06 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+18:06 [Info] [FancyDrop] Next timed Airdrop in 46 minutes
+18:52 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+18:52 [Info] [FancyDrop] Next timed Airdrop in 32 minutes
+19:24 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+19:24 [Info] [FancyDrop] Next timed Airdrop in 34 minutes
+19:58 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+19:58 [Info] [FancyDrop] Next timed Airdrop in 46 minutes
+20:44 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+20:44 [Info] [FancyDrop] Next timed Airdrop in 44 minutes
+21:28 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+21:28 [Info] [FancyDrop] Next timed Airdrop in 39 minutes
+21:42 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 218ms [GARBAGE COLLECT]
+22:07 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+22:07 [Info] [FancyDrop] Next timed Airdrop in 40 minutes
+22:47 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+22:47 [Info] [FancyDrop] Next timed Airdrop in 45 minutes
+23:32 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+23:32 [Info] [FancyDrop] Next timed Airdrop in 31 minutes

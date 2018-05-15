@@ -1,0 +1,20 @@
+{
+  "Options": {
+    "Modded": true,
+    "DefaultGroups": {
+      "Players": "default",
+      "Administrators": "admin"
+    }
+  },
+  "OxideConsole": {
+    "Enabled": true,
+    "MinimalistMode": true,
+    "ShowStatusBar": true
+  },
+  "OxideRcon": {
+    "Enabled": false,
+    "Port": 28016,
+    "Password": "manson34",
+    "ChatPrefix": "[Server Console]"
+  }
+}

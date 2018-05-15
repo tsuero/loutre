@@ -1,0 +1,1170 @@
+00:24 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+00:24 [Info] [FancyDrop] Next timed Airdrop in 33 minutes
+00:42 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 466ms [GARBAGE COLLECT]
+00:57 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+00:57 [Info] [FancyDrop] Next timed Airdrop in 47 minutes
+01:44 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+01:44 [Info] [FancyDrop] Next timed Airdrop in 40 minutes
+02:24 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+02:24 [Info] [FancyDrop] Next timed Airdrop in 40 minutes
+02:28 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took 262ms [GARBAGE COLLECT]
+03:04 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+03:04 [Info] [FancyDrop] Next timed Airdrop in 38 minutes
+03:42 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+03:42 [Info] [FancyDrop] Next timed Airdrop in 37 minutes
+04:19 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+04:19 [Info] [FancyDrop] Next timed Airdrop in 38 minutes
+04:57 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+04:57 [Info] [FancyDrop] Next timed Airdrop in 48 minutes
+05:18 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1514ms
+05:18 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 3097ms
+05:19 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 3137ms
+05:19 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2011ms
+05:20 [Info] [NTeleportation] Tsuero-Sama teleported Tsuero-Sama to Elfy.
+05:20 [Info] [NTeleportation] Tsuero-Sama teleported Tsuero-Sama to Elfy.
+05:21 [Info] [NTeleportation] Tsuero-Sama teleported Tsuero-Sama to Ulos.
+05:26 [Info] [Death Notes] Tsuero-Sama killed a Scientist with a Revolver from 1.45m.
+05:36 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took 488ms [GARBAGE COLLECT]
+05:36 [Info] BotSpawn was compiled successfully in 3203ms
+05:36 [Info] [BotSpawn] Creating new config file.
+05:36 [Warning] Calling 'OnServerInitialized' on 'BotSpawn v1.6.0' took 759ms
+05:36 [Info] [Magic Description] Server description updated!
+05:36 [Info] Loaded plugin BotSpawn v1.6.0 by Steenamaroo
+05:45 [Info] [Magic Description] Server description updated!
+05:45 [Info] Unloaded plugin BotSpawn v1.6.0 by Steenamaroo
+05:45 [Warning] Calling 'OnServerInitialized' on 'BotSpawn v1.6.0' took 238ms
+05:45 [Info] [Magic Description] Server description updated!
+05:45 [Info] Loaded plugin BotSpawn v1.6.0 by Steenamaroo
+05:45 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+05:45 [Info] [FancyDrop] Next timed Airdrop in 45 minutes
+05:49 [Info] [Death Notes] Tsuero-Sama killed a Scientist with a Revolver from 0m.
+05:51 [Info] [Death Notes] Tsuero-Sama killed a Scientist with a M92 Pistol from 28.27m.
+05:51 [Info] [Death Notes] Tsuero-Sama killed a Wolf with a M92 Pistol from 0.66m.
+05:52 [Info] [Death Notes] Tsuero-Sama killed a Scientist with a M92 Pistol from 17.92m.
+05:52 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'botspawn.allowed'
+06:03 [Info] [Magic Description] Server description updated!
+06:03 [Info] Unloaded plugin BotSpawn v1.6.0 by Steenamaroo
+06:03 [Warning] Calling 'OnServerInitialized' on 'BotSpawn v1.6.0' took 226ms
+06:03 [Info] [Magic Description] Server description updated!
+06:03 [Info] Loaded plugin BotSpawn v1.6.0 by Steenamaroo
+06:09 [Info] [Magic Description] Server description updated!
+06:09 [Info] Unloaded plugin BotSpawn v1.6.0 by Steenamaroo
+06:09 [Warning] Calling 'OnServerInitialized' on 'BotSpawn v1.6.0' took 239ms
+06:09 [Info] [Magic Description] Server description updated!
+06:09 [Info] Loaded plugin BotSpawn v1.6.0 by Steenamaroo
+06:09 [Info] [Death Notes] Tsuero-Sama killed a Scientist with a M92 Pistol from 0.07m.
+06:09 [Info] [Death Notes] Tsuero-Sama killed a P�gre de Loutria with a M92 Pistol from 1.67m.
+06:09 [Info] [Death Notes] Tsuero-Sama killed a P�gre de Loutria with a M92 Pistol from 1.54m.
+06:11 [Info] [Magic Description] Server description updated!
+06:11 [Info] Unloaded plugin BotSpawn v1.6.0 by Steenamaroo
+06:11 [Warning] Calling 'OnServerInitialized' on 'BotSpawn v1.6.0' took 1041ms [GARBAGE COLLECT]
+06:11 [Info] [Magic Description] Server description updated!
+06:11 [Info] Loaded plugin BotSpawn v1.6.0 by Steenamaroo
+06:12 [Warning] Calling 'OnNpcTarget' on 'BotSpawn v1.6.0' took average 1050ms
+06:12 [Info] [Death Notes] Tsuero-Sama killed a P�gre de Loutria with a M92 Pistol from 4.25m.
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+06:18 [Info] [Death Notes] Tsuero-Sama killed a P�gre de Loutria with a M92 Pistol from 0m.
+06:19 [Info] [Death Notes] Tsuero-Sama killed a P�gre de Loutria with a M92 Pistol from 7.54m.
+06:24 [Info] [Death Notes] Tsuero-Sama killed a P�gre de Loutria with a M92 Pistol from 35.97m.
+06:24 [Info] [Death Notes] Tsuero-Sama killed a P�gre de Loutria with a M92 Pistol from 10.76m.
+06:27 [Info] [Death Notes] Tsuero-Sama killed a P�gre de Loutria with a LR-300 Assault Rifle from 37.05m.
+06:30 [Info] [Death Notes] Tsuero-Sama killed a Scientist with a LR-300 Assault Rifle from 6.43m.
+06:30 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-821, 61, -421)
+06:30 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+06:30 [Info] [FancyDrop] Next timed Airdrop in 47 minutes
+06:35 [Info] [Death Notes] Elfy had enough of life.
+06:37 [Info] [Better Chat] Elfy: :HOME é
+06:40 [Error] Could not load plugin 'PermissionsManager' (no plugin found with that file name)
+06:41 [Error] Could not load plugin 'PermissionsManager' (no plugin found with that file name)
+06:41 [Info] PermissionsManager was compiled successfully in 1938ms
+06:41 [Info] [PermissionsManager] Creating a new config file
+06:41 [Info] [Magic Description] Server description updated!
+06:41 [Info] Loaded plugin PermissionsManager v0.0.9 by Steenamaroo
+06:43 [Info] [Better Chat]  Elfy: RTRT
+06:44 [Info] [Death Notes] Elfy had enough of life.
+06:44 [Info] [Better Chat]  Elfy: :REMOVE
+06:45 [Info] [Better Chat] [Admin]  Tsuero-Sama: dd
+06:51 [Warning] Calling 'Navigate' on 'PermissionsManager v0.0.9' took 474ms [GARBAGE COLLECT]
+07:12 [Info] [ChestStacks] Missing stacksize for locker.deployed! (Not an error, but please post in the plugin thread on oxidemod.org and let me know)
+07:14 [Info] [Death Notes] Elfy had enough of life.
+07:17 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (327, 6, -994)
+07:17 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+07:17 [Info] [FancyDrop] Next timed Airdrop in 48 minutes
+07:23 [Info] Player 'Elfy(76561198019753583)' added to group: loutre
+07:30 [Info] [Better Chat]  Elfy: erer
+07:30 [Info] [Better Chat]  Elfy: erer
+08:05 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-609, 8, -1150)
+08:05 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+08:05 [Info] [FancyDrop] Next timed Airdrop in 33 minutes
+08:37 [Info] [Better Chat] Max: Bonjour
+08:38 [Info] [Better Chat] Max: Vous allez bien ?
+08:38 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-358, 48, 258)
+08:38 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+08:38 [Info] [FancyDrop] Next timed Airdrop in 31 minutes
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:47 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Info] [Death Notes] Max had enough of life.
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:48 [Info] [NTeleportation] Tsuero-Sama teleported Tsuero-Sama to Max.
+08:52 [Info] [Better Chat] Tsuero-Sama: noclip
+08:52 [Info] [NTeleportation] Tsuero-Sama teleported back to previous location.
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:54 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+08:55 [Info] [Death Notes] Tsuero-Sama killed a P�gre de Loutria with a LR-300 Assault Rifle from 11.26m.
+08:56 [Info] [Death Notes] Tsuero-Sama killed a P�gre de Loutria with a LR-300 Assault Rifle from 18.44m.
+08:56 [Info] [NTeleportation] Tsuero-Sama teleported Max to Tsuero-Sama.
+08:58 [Info] [NTeleportation] Tsuero-Sama teleported back to previous location.
+08:59 [Info] [NTeleportation] Tsuero-Sama teleported Max to Tsuero-Sama.
+09:05 [Info] [Explosion Tracker] Tsuero-Sama (76561198022298131) launched a rocket at (X: 628.11, Y: 31.69, Z: 268.34)
+09:05 [Info] [Explosion Tracker] Tsuero-Sama (76561198022298131) launched a rocket at (X: 635.31, Y: 31.52, Z: 271.32)
+09:05 [Info] [Explosion Tracker] Tsuero-Sama (76561198022298131) launched a rocket at (X: 663.14, Y: 28.24, Z: 263.06)
+09:06 [Info] [Explosion Tracker] Tsuero-Sama (76561198022298131) launched a rocket at (X: 695.24, Y: 33.74, Z: 265.41)
+09:06 [Info] [Explosion Tracker] Tsuero-Sama (76561198022298131) launched a rocket at (X: 694.94, Y: 34.08, Z: 264.91)
+09:07 [Info] [Explosion Tracker] Tsuero-Sama (76561198022298131) launched a rocket at (X: 695.51, Y: 33.64, Z: 263.98)
+09:08 [Info] [Explosion Tracker] Tsuero-Sama (76561198022298131) launched a rocket at (X: 695.5, Y: 33.73, Z: 264.06)
+09:08 [Info] [Explosion Tracker] Tsuero-Sama (76561198022298131) launched a rocket at (X: 695.53, Y: 33.68, Z: 264.04)
+09:09 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (1153, 49, -367)
+09:09 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+09:09 [Info] [FancyDrop] Next timed Airdrop in 40 minutes
+09:12 [Info] [FancyDrop] Max (76561198271944168) looted the Drop at: (1153, 50, -367)
+09:15 [Info] [Death Notes] Max killed a Boar with a Double Barrel Shotgun from 11.8m.
+09:49 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+09:49 [Info] [FancyDrop] Next timed Airdrop in 30 minutes
+10:19 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+10:19 [Info] [FancyDrop] Next timed Airdrop in 41 minutes
+11:00 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+11:00 [Info] [FancyDrop] Next timed Airdrop in 40 minutes
+11:40 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+11:40 [Info] [FancyDrop] Next timed Airdrop in 36 minutes
+11:50 [Info] [Explosion Tracker] Tsuero-Sama (76561198022298131) launched a rocket at (X: 618.3, Y: 33.21, Z: 302.21)
+11:50 [Info] [Explosion Tracker] Tsuero-Sama (76561198022298131) launched a rocket at (X: 614.08, Y: 35.8, Z: 322.78)
+11:50 [Info] [Explosion Tracker] Tsuero-Sama (76561198022298131) launched a rocket at (X: 617.06, Y: 37.24, Z: 344.39)
+11:50 [Info] [Death Notes] Tsuero-Sama killed a Scientist with a Rocket Basic from 21.83m.
+11:50 [Info] [Explosion Tracker] Tsuero-Sama (76561198022298131) launched a rocket at (X: 677.47, Y: 122.98, Z: 328.59)
+11:51 [Info] [Death Notes] Tsuero-Sama killed a Scientist with a LR-300 Assault Rifle from 16.26m.
+11:51 [Info] [Death Notes] Tsuero-Sama killed a Scientist with a LR-300 Assault Rifle from 10.08m.
+11:54 [Warning] Calling 'CanBeTargeted' on 'BotSpawn v1.6.0' took average 1016ms
+11:54 [Warning] Calling 'CanBeTargeted' on 'BotSpawn v1.6.0' took average 1012ms
+11:54 [Warning] Calling 'OnNpcPlayerTarget' on 'BotSpawn v1.6.0' took average 1030ms
+11:55 [Info] [Death Notes] Tsuero-Sama killed a Boar with a M249 from 0.84m.
+11:55 [Info] [Death Notes] Tsuero-Sama killed a Scientist with a M249 from 14.63m.
+11:56 [Info] [Death Notes] Tsuero-Sama killed a Scientist with a No Weapon from 17.07m.
+12:13 [Info] [Death Notes] Tsuero-Sama killed a Scientist with a M249 (4x Zoom Scope | Weapon Lasersight) from 24.26m.
+12:13 [Info] [Death Notes] Tsuero-Sama killed a Scientist with a M249 (4x Zoom Scope | Weapon Lasersight) from 62.83m.
+12:14 [Info] [Explosion Tracker] Tsuero-Sama (76561198022298131) launched a rocket at (X: -51.34, Y: 37.56, Z: 589.26)
+12:14 [Info] [Explosion Tracker] Tsuero-Sama (76561198022298131) launched a rocket at (X: -52.84, Y: 36.93, Z: 590.19)
+12:14 [Info] [Explosion Tracker] Tsuero-Sama (76561198022298131) launched a rocket at (X: -53.05, Y: 36.9, Z: 590.19)
+12:15 [Info] [Explosion Tracker] Tsuero-Sama (76561198022298131) launched a rocket at (X: -75.61, Y: 30.72, Z: 613.2)
+12:15 [Info] [Explosion Tracker] Tsuero-Sama (76561198022298131) launched a rocket at (X: -102.56, Y: 32.32, Z: 600.38)
+12:16 [Info] [Death Notes] Tsuero-Sama killed a Scientist with a M249 (4x Zoom Scope | Weapon Lasersight) from 1.34m.
+12:16 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+12:16 [Info] [FancyDrop] Next timed Airdrop in 45 minutes
+12:16 [Info] [Death Notes] Tsuero-Sama killed a Scientist with a M249 (4x Zoom Scope | Weapon Lasersight) from 0.07m.
+12:17 [Info] [Death Notes] Tsuero-Sama killed a Scientist with a M249 (4x Zoom Scope | Weapon Lasersight) from 9.34m.
+12:17 [Info] [Death Notes] Tsuero-Sama killed a Scientist with a M249 (4x Zoom Scope | Weapon Lasersight) from 12.66m.
+12:17 [Info] [Death Notes] Tsuero-Sama killed a Scientist with a M249 (4x Zoom Scope | Weapon Lasersight) from 1.11m.
+12:17 [Info] [Death Notes] Tsuero-Sama killed a Scientist with a M249 (4x Zoom Scope | Weapon Lasersight) from 22.69m.
+12:17 [Info] [Death Notes] Tsuero-Sama killed a Scientist with a M249 (4x Zoom Scope | Weapon Lasersight) from 27.46m.
+12:18 [Info] [Death Notes] Tsuero-Sama killed a Scientist with a M249 (4x Zoom Scope | Weapon Lasersight) from 22.84m.
+12:18 [Info] [Death Notes] Tsuero-Sama killed a Scientist with a M249 (4x Zoom Scope | Weapon Lasersight) from 13.57m.
+12:18 [Info] [Death Notes] Tsuero-Sama killed a Scientist with a M249 (4x Zoom Scope | Weapon Lasersight) from 23.73m.
+12:18 [Info] [Death Notes] Tsuero-Sama killed a Scientist with a M249 (4x Zoom Scope | Weapon Lasersight) from 2.11m.
+12:19 [Info] [Death Notes] Tsuero-Sama killed a Scientist with a M249 (4x Zoom Scope | Weapon Lasersight) from 0m.
+12:19 [Info] [Death Notes] Tsuero-Sama killed a Scientist with a M249 (4x Zoom Scope | Weapon Lasersight) from 8.06m.
+12:19 [Info] [Death Notes] Tsuero-Sama killed a Scientist with a M249 (4x Zoom Scope | Weapon Lasersight) from 9.32m.
+12:19 [Info] [Death Notes] Tsuero-Sama killed a Scientist with a M249 (4x Zoom Scope | Weapon Lasersight) from 5.06m.
+12:26 [Info] [Death Notes] Tsuero-Sama killed a Scientist with a Bolt Action Rifle (4x Zoom Scope) from 120.59m.
+13:01 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+13:01 [Info] [FancyDrop] Next timed Airdrop in 48 minutes
+13:37 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 3754ms
+13:37 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 4193ms
+13:38 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2819ms
+13:49 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (88, 13, -1156)
+13:49 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+13:49 [Info] [FancyDrop] Next timed Airdrop in 41 minutes
+13:56 [Info] Player 'Tsuero-Sama (76561198022298131)' granted permission 'enhancedhammer.use'
+13:57 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1365ms
+13:57 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1886ms
+14:03 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2115ms
+14:03 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1285ms
+14:17 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 3569ms
+14:17 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 5026ms
+14:18 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 5057ms
+14:18 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 4594ms
+14:18 [Warning] Calling 'CanBeTargeted' on 'BotSpawn v1.6.0' took 516ms [GARBAGE COLLECT]
+14:18 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 4324ms
+14:18 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 4604ms
+14:18 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 4230ms
+14:18 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 4468ms
+14:19 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 4554ms
+14:19 [Info] [Better Chat] Tsuero-Sama: build foundation
+14:19 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 4362ms
+14:19 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 4156ms
+14:19 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 4574ms
+14:19 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 4493ms
+14:19 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 4148ms
+14:20 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 4375ms
+14:20 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 4041ms
+14:20 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 4574ms
+14:20 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 4607ms
+14:20 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 4474ms
+14:21 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 4292ms
+14:21 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 4269ms
+14:21 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 3890ms
+14:21 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 4267ms
+14:21 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 4313ms
+14:21 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 4265ms
+14:22 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 4176ms
+14:22 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 3790ms
+14:22 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 4036ms
+14:22 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 3276ms
+14:25 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 4321ms
+14:25 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 4637ms
+14:25 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 4667ms
+14:26 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2621ms
+14:30 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (848, 51, -358)
+14:30 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+14:30 [Info] [FancyDrop] Next timed Airdrop in 45 minutes
+14:33 [Warning] Calling 'cmdChatCopy' on 'CopyPaste v3.6.4' took 808ms
+14:41 [Warning] Calling 'cmdChatCopy' on 'CopyPaste v3.6.4' took 1159ms
+15:02 [Info] [Better Chat] Tsuero-Sama: erase
+15:06 [Info] [Better Chat] Spermwhale: Hey !
+15:09 [Info] [Better Chat] Tsuero-Sama: hey
+15:11 [Info] [Better Chat]  Elfy: moi 360 :/
+15:11 [Info] [Better Chat]  Elfy: scientifique = mort
+15:13 [Info] [NTeleportation] Tsuero-Sama teleported Spermwhale to Tsuero-Sama.
+15:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+15:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+15:13 [Warning] Calling hook OnNpcPlayerTarget resulted in a conflict between the following plugins: ZoneManager - False (Boolean), BotSpawn (True (Boolean))
+15:15 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-684, 42, 212)
+15:15 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+15:15 [Info] [FancyDrop] Next timed Airdrop in 35 minutes
+15:24 [Info] [Better Chat]  Elfy: si tu veux t'as un lit dans ma maison :3
+15:24 [Info] [Death Notes] Spermwhale killed a P�gre de Loutria with a Double Barrel Shotgun from 1.73m.
+15:26 [Info] [Better Chat]  Elfy: ptite bite
+15:27 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1544ms
+15:27 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 3902ms
+15:27 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 3592ms
+15:27 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 3457ms
+15:27 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 3559ms
+15:28 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 3865ms
+15:28 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 3805ms
+15:28 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 3117ms
+15:28 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 3583ms
+15:28 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 3517ms
+15:28 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 3477ms
+15:29 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 3650ms
+15:29 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 3528ms
+15:29 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 3745ms
+15:29 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 3047ms
+15:29 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2375ms
+15:29 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2247ms
+15:30 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2119ms
+15:30 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2132ms
+15:30 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1735ms
+15:30 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2479ms
+15:30 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2822ms
+15:30 [Warning] Calling 'cmdChatCopy' on 'CopyPaste v3.6.4' took 1289ms
+15:31 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 1033ms
+15:31 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took average 2274ms
+15:35 [Info] [Death Notes] Spermwhale killed a Chicken with a Salvaged Axe from 1.5m.
+15:35 [Info] [Death Notes] Spermwhale killed a Chicken with a Salvaged Axe from 1.44m.
+15:40 [Info] [Better Chat]  Elfy: tain marche pas sur mes plantes !
+15:40 [Info] [Better Chat] Spermwhale: ça les abime ?
+15:40 [Info] [Better Chat]  Elfy: non xD
+15:41 [Info] [Death Notes] Spermwhale ran into a Land Mine
+15:41 [Info] [Death Notes] Spermwhale slashed Elfy in half.
+15:43 [Info] [Better Chat]  Elfy: du coup t'as plus besoin de bouffe xD
+15:43 [Info] [Better Chat] Spermwhale: non xD
+15:50 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (1193, 13, 663)
+15:50 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+15:50 [Info] [FancyDrop] Next timed Airdrop in 45 minutes
+15:54 [Info] [Better Chat] Spermwhale: Developpeur informatique
+15:57 [Warning] Calling 'OnFrame' on 'FauxClip v1.3.8' took 274ms [GARBAGE COLLECT]
